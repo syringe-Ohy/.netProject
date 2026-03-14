@@ -1,0 +1,110 @@
+﻿@{
+    ViewBag.Title = "Admin Dashboard";
+}
+
+<style>
+    .dashboard-header {
+        text-align: center;
+        margin: 20px 0 40px 0;
+    }
+
+    .admin-card {
+        background-color: #f8f9fa;
+        border: 1px solid #dee2e6;
+        border-radius: 8px;
+        padding: 20px;
+        margin-bottom: 20px;
+        box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+        transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+    }
+
+        .admin-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 15px rgba(0,0,0,0.1);
+        }
+
+        .admin-card h3 {
+            color: #0056b3;
+            margin-top: 0;
+            display: flex;
+            align-items: center;
+        }
+
+        .admin-card .glyphicon {
+            font-size: 1.2em;
+            margin-right: 10px;
+        }
+
+        .admin-card .btn {
+            margin-top: 15px;
+        }
+</style>
+
+<div class="container">
+    <div class="dashboard-header">
+        <h1>Administrator Control Panel</h1>
+        <p class="lead">Manage all aspects of the system from this central dashboard.</p>
+    </div>
+
+    <div class="row">
+        <!-- User Management -->
+        <div class="col-md-6">
+            <div class="admin-card">
+                <h3><span class="glyphicon glyphicon-user"></span> User Management</h3>
+                <p>View all registered users and create new administrator accounts.</p>
+                @Html.ActionLink("Manage Users", "Index", "User", null, new { @class = "btn btn-primary" })
+                @Html.ActionLink("Add New Admin/User", "AddAdmin", "Admin", null, new { @class = "btn btn-success" })
+            </div>
+        </div>
+
+        <!-- Inventory Management -->
+        <div class="col-md-6">
+            <div class="admin-card">
+                <h3><span class="glyphicon glyphicon-th-list"></span> Inventory & Stock</h3>
+                <p>Manage the inventory and stock levels for all cars and parts.</p>
+                @Html.ActionLink("Manage Cars", "CarInventory", "Admin", null, new { @class = "btn btn-info" })
+                @Html.ActionLink("Manage Parts", "PartInventory", "Admin", null, new { @class = "btn btn-info" })
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <!-- Order Management -->
+        <div class="col-md-6">
+            <div class="admin-card">
+                <h3><span class="glyphicon glyphicon-shopping-cart"></span> Order Management</h3>
+                <p>Track customer orders, view details, and manage payment statuses.</p>
+                @Html.ActionLink("Manage Orders", "ManageOrders", "Admin", null, new { @class = "btn btn-info" })
+            </div>
+        </div>
+
+        <!-- Test Drives -->
+        <div class="col-md-6">
+            <div class="admin-card">
+                <h3><span class="glyphicon glyphicon-calendar"></span> Test Drive Bookings</h3>
+                <p>View and manage all customer requests for test drives.</p>
+                @Html.ActionLink("Manage Test Drives", "ManageTestDrives", "Admin", null, new { @class = "btn btn-info" })
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <!-- Car Requests -->
+        <div class="col-md-6">
+            <div class="admin-card">
+                <h3><span class="glyphicon glyphicon-search"></span> Customer Car Requests</h3>
+                <p>View and manage special requests for cars not in inventory.</p>
+                @Html.ActionLink("Manage Car Requests", "ManageCarRequests", "Admin", null, new { @class = "btn btn-secondary" })
+            </div>
+        </div>
+
+        <div class="row">
+            <!-- Reporting -->
+            <div class="col-md-12">
+                <div class="admin-card text-center">
+                    <h3><span class="glyphicon glyphicon-stats"></span> Reporting</h3>
+                    <p>Generate sales and inventory reports for business analytics.</p>
+                    @Html.ActionLink("Generate Reports", "Reports", "Admin", null, new { @class = "btn btn-danger" })
+                </div>
+            </div>
+        </div>
+    </div>

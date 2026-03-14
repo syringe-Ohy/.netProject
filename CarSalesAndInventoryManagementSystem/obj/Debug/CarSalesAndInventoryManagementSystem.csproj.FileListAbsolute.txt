@@ -1,0 +1,202 @@
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\CarSalesAndInventoryManagementSystem.dll.config
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\CarSalesAndInventoryManagementSystem.dll
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\CarSalesAndInventoryManagementSystem.pdb
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\csc.exe
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\csc.exe.config
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\csc.rsp
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\csi.exe
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\csi.exe.config
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\csi.rsp
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\System.AppContext.dll
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\System.Collections.Immutable.dll
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\System.Console.dll
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\System.Globalization.Calendars.dll
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\System.IO.Compression.dll
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\System.IO.FileSystem.dll
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\System.Net.Http.dll
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\System.Net.Sockets.dll
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\System.Reflection.Metadata.dll
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\System.ValueTuple.dll
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\System.Xml.XPath.dll
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\vbc.exe
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\vbc.exe.config
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\vbc.rsp
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\VBCSCompiler.exe
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\VBCSCompiler.exe.config
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\Antlr3.Runtime.dll
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\EntityFramework.dll
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\EntityFramework.SqlServer.dll
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\Newtonsoft.Json.dll
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\System.Web.Helpers.dll
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\System.Web.Mvc.dll
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\System.Web.Optimization.dll
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\System.Web.Razor.dll
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\System.Web.WebPages.Deployment.dll
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\System.Web.WebPages.dll
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\System.Web.WebPages.Razor.dll
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\WebGrease.dll
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\EntityFramework.xml
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\EntityFramework.SqlServer.xml
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\System.Web.Helpers.xml
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\System.Web.Mvc.xml
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\System.Web.Optimization.xml
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\System.Web.Razor.xml
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\System.Web.WebPages.xml
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\System.Web.WebPages.Deployment.xml
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\System.Web.WebPages.Razor.xml
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\Newtonsoft.Json.xml
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\Antlr3.Runtime.pdb
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\obj\Debug\CarSalesAndInventoryManagementSystem.csproj.AssemblyReference.cache
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\obj\Debug\CarSalesAndInventoryManagementSystem.Migrations.InitialCreate.resources
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\obj\Debug\CarSalesAndInventoryManagementSystem.Migrations.ModifyMyTable.resources
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\obj\Debug\CarSalesAndInventoryManagementSystem.Migrations.ModifyMyTable1.resources
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\obj\Debug\CarSalesAndInventoryManagementSystem.Migrations.AddImageUrlToCar.resources
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\obj\Debug\CarSalesAndInventoryManagementSystem.csproj.GenerateResource.cache
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\obj\Debug\CarSalesAndInventoryManagementSystem.csproj.CoreCompileInputs.cache
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\obj\Debug\CarSales.27AC5A48.Up2Date
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\obj\Debug\CarSalesAndInventoryManagementSystem.dll
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\obj\Debug\CarSalesAndInventoryManagementSystem.pdb
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\obj\Debug\CarSalesAndInventoryManagementSystem.Migrations.ModifyMyTable2.resources
+E:\Semester 8\.Net C#\Lab Works\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\obj\Debug\CarSalesAndInventoryManagementSystem.Migrations.ModifyMyTable3.resources
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\CarSalesAndInventoryManagementSystem.dll.config
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\CarSalesAndInventoryManagementSystem.dll
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\CarSalesAndInventoryManagementSystem.pdb
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\csc.exe
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\csc.exe.config
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\csc.rsp
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\csi.exe
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\csi.exe.config
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\csi.rsp
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\Microsoft.Managed.Core.targets
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\System.AppContext.dll
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\System.Collections.Immutable.dll
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\System.Console.dll
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\System.Globalization.Calendars.dll
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\System.IO.Compression.dll
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\System.IO.FileSystem.dll
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\System.Net.Http.dll
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\System.Net.Sockets.dll
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\System.Reflection.Metadata.dll
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\System.ValueTuple.dll
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\System.Xml.XmlDocument.dll
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\System.Xml.XPath.dll
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\vbc.exe
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\vbc.exe.config
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\vbc.rsp
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\VBCSCompiler.exe
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\roslyn\VBCSCompiler.exe.config
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\Antlr3.Runtime.dll
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\EntityFramework.dll
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\EntityFramework.SqlServer.dll
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\Newtonsoft.Json.dll
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\System.Web.Helpers.dll
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\System.Web.Mvc.dll
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\System.Web.Optimization.dll
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\System.Web.Razor.dll
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\System.Web.WebPages.Deployment.dll
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\System.Web.WebPages.dll
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\System.Web.WebPages.Razor.dll
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\WebGrease.dll
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\EntityFramework.xml
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\EntityFramework.SqlServer.xml
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\System.Web.Helpers.xml
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\System.Web.Mvc.xml
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\System.Web.Optimization.xml
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\System.Web.Razor.xml
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\System.Web.WebPages.xml
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\System.Web.WebPages.Deployment.xml
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\System.Web.WebPages.Razor.xml
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\Newtonsoft.Json.xml
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\Antlr3.Runtime.pdb
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\obj\Debug\CarSalesAndInventoryManagementSystem.csproj.AssemblyReference.cache
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\obj\Debug\CarSalesAndInventoryManagementSystem.Migrations.InitialCreate.resources
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\obj\Debug\CarSalesAndInventoryManagementSystem.Migrations.ModifyMyTable.resources
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\obj\Debug\CarSalesAndInventoryManagementSystem.Migrations.ModifyMyTable1.resources
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\obj\Debug\CarSalesAndInventoryManagementSystem.Migrations.AddImageUrlToCar.resources
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\obj\Debug\CarSalesAndInventoryManagementSystem.Migrations.ModifyMyTable2.resources
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\obj\Debug\CarSalesAndInventoryManagementSystem.Migrations.ModifyMyTable3.resources
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\obj\Debug\CarSalesAndInventoryManagementSystem.Migrations.UpdateModel.resources
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\obj\Debug\CarSalesAndInventoryManagementSystem.Migrations.FixOrderItemStructure.resources
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\obj\Debug\CarSalesAndInventoryManagementSystem.csproj.GenerateResource.cache
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\obj\Debug\CarSalesAndInventoryManagementSystem.csproj.CoreCompileInputs.cache
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\obj\Debug\CarSales.27AC5A48.Up2Date
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\obj\Debug\CarSalesAndInventoryManagementSystem.dll
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\obj\Debug\CarSalesAndInventoryManagementSystem.pdb
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\obj\Debug\CarSalesAndInventoryManagementSystem.Migrations.ModifyMyTable4.resources
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\Newtonsoft.Json.Bson.dll
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\System.Buffers.dll
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\System.Memory.dll
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\System.Net.Http.Formatting.dll
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\System.Numerics.Vectors.dll
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\System.Threading.Tasks.Extensions.dll
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\System.Web.Http.dll
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\System.Web.Http.WebHost.dll
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\Newtonsoft.Json.Bson.pdb
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\Newtonsoft.Json.Bson.xml
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\System.Buffers.xml
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\System.Memory.xml
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\System.Net.Http.Formatting.xml
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\System.Numerics.Vectors.xml
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\System.Threading.Tasks.Extensions.xml
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\System.Web.Http.xml
+E:\.net er project\CarSalesAndInventoryManagementSystem\CarSalesAndInventoryManagementSystem\bin\System.Web.Http.WebHost.xml

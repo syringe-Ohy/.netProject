@@ -1,0 +1,72 @@
+﻿@model CarSalesAndInventoryManagementSystem.Models.User
+@{
+    ViewBag.Title = "Sign Up";
+}
+
+<style>
+    .signup-container {
+        max-width: 450px;
+        margin: 50px auto;
+        padding: 30px;
+        border: 1px solid #ddd;
+        border-radius: 8px;
+        box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        background-color: #fff;
+    }
+
+    .form-header {
+        text-align: center;
+        margin-bottom: 25px;
+    }
+
+    .field-validation-error {
+        color: #b94a48;
+        font-size: 0.9em;
+    }
+</style>
+
+<div class="signup-container">
+    <div class="form-header">
+        <h2>Create an Account</h2>
+        <p>Join us to start browsing and booking cars.</p>
+    </div>
+
+    @using (Html.BeginForm("SignUp", "User", FormMethod.Post))
+    {
+        @Html.AntiForgeryToken()
+
+        @Html.ValidationSummary(false, "", new { @class = "alert alert-danger" })
+
+        <div class="form-group">
+            @Html.LabelFor(m => m.Name, "Username")
+            @Html.TextBoxFor(m => m.Name, new { @class = "form-control", placeholder = "Choose a unique username" })
+            @Html.ValidationMessageFor(m => m.Name, "", new { @class = "text-danger" })
+        </div>
+        <div class="form-group mb-3">
+            @Html.LabelFor(m => m.Email, new { @class = "form-label" })
+            @Html.TextBoxFor(m => m.Email, new { @class = "form-control", placeholder = "you@example.com" })
+            @Html.ValidationMessageFor(m => m.Email, "", new { @class = "text-danger" })
+        </div>
+
+        <div class="form-group mb-3">
+            @Html.LabelFor(m => m.DOB, new { @class = "form-label" })
+            @Html.EditorFor(m => m.DOB, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(m => m.DOB, "", new { @class = "text-danger" })
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(m => m.Password)
+            @Html.PasswordFor(m => m.Password, new { @class = "form-control", placeholder = "Create a strong password" })
+            @Html.ValidationMessageFor(m => m.Password, "", new { @class = "text-danger" })
+        </div>
+
+
+
+        <div class="form-group">
+            <button type="submit" class="btn btn-success btn-block">Create Account</button>
+        </div>
+
+        <div class="text-center" style="margin-top: 20px;">
+            <p>Already have an account? @Html.ActionLink("Login Here", "Login")</p>
+        </div>
+    }
+</div>

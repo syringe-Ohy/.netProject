@@ -1,0 +1,49 @@
+﻿
+@model IEnumerable<CarSalesAndInventoryManagementSystem.Models.Order>
+
+@{
+    ViewBag.Title = "Sales Report";
+}
+
+<h2>Sales Report from @Request.Form["startDate"] to @Request.Form["endDate"]</h2>
+
+@if (!Model.Any())
+{
+    <p>No confirmed orders found in the selected date range.</p>
+}
+else
+{
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Order ID</th>
+            <th>Customer Name</th>
+            <th>Order Date</th>
+            <th>Total Amount</th>
+            <th>Details</th> <!-- new column -->
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var order in Model)
+        {
+            <tr>
+                <td>@order.OrderID</td>
+                <td>@(order.User != null ? order.User.Name : "N/A")</td>
+                <td>@order.OrderDate.ToString("dd MMM yyyy")</td>
+                <td>@String.Format("{0:C}", order.TotalAmount)</td>
+                <td>
+                    @Html.ActionLink("Details", "GDetails", "Admin", new { id = order.OrderID }, new { @class = "btn btn-info btn-sm" })
+                </td>
+            </tr>
+        }
+    </tbody>
+
+</table>
+}
+
+<div>
+    @Html.ActionLink("<< Back to Generate Report", "Reports", "Admin", null, new { @class = "btn btn-default" })
+</div>
+
+
+

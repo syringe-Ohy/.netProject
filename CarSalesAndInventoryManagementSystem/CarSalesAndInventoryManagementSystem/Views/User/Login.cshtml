@@ -1,0 +1,94 @@
+﻿@model CarSalesAndInventoryManagementSystem.Models.User
+@{
+    ViewBag.Title = "Login";
+}
+
+<style>
+    .login-container {
+        max-width: 450px;
+        margin: 50px auto;
+        padding: 30px;
+        border: 1px solid #ddd;
+        border-radius: 8px;
+        box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        background-color: #fff;
+    }
+
+    .form-header {
+        text-align: center;
+        margin-bottom: 25px;
+    }
+
+    .field-validation-error {
+        color: #b94a48; 
+        font-size: 0.9em;
+    }
+
+    .alert-message {
+        position: relative;
+    }
+</style>
+
+<div class="login-container">
+    <div class="form-header">
+        <h2>Login</h2>
+        <p>Enter your credentials to access your dashboard.</p>
+    </div>
+
+    @* --- Display Messages from Controller --- *@
+    @if (TempData["LogoutMessage"] != null)
+    {
+        <div id="alertBox" class="alert alert-info alert-message">
+            <strong>@TempData["LogoutMessage"]</strong>
+        </div>
+    }
+    @if (TempData["SuccessMessage"] != null)
+    {
+        <div id="alertBox" class="alert alert-success alert-message">
+            <strong>@TempData["SuccessMessage"]</strong>
+        </div>
+    }
+    @if (ViewBag.ErrorMessage != null)
+    {
+        <div id="alertBox" class="alert alert-danger alert-message">
+            <strong>@ViewBag.ErrorMessage</strong>
+        </div>
+    }
+
+    @using (Html.BeginForm("Login", "User", FormMethod.Post))
+    {
+
+        <div class="form-group">
+            @Html.LabelFor(m => m.Name, "Username")
+            @Html.TextBoxFor(m => m.Name, new { @class = "form-control", placeholder = "Enter your username" })
+            @Html.ValidationMessageFor(m => m.Name, "", new { @class = "text-danger" })
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(m => m.Password)
+            @Html.PasswordFor(m => m.Password, new { @class = "form-control", placeholder = "Enter your password" })
+            @Html.ValidationMessageFor(m => m.Password, "", new { @class = "text-danger" })
+        </div>
+
+        <div class="form-group">
+            <button type="submit" class="btn btn-primary btn-block">Login</button>
+        </div>
+
+        <div class="text-center" style="margin-top: 20px;">
+            <p>Don't have an account? @Html.ActionLink("Sign Up Now", "SignUp")</p>
+        </div>
+    }
+</div>
+
+@section scripts {
+    <script>
+        window.setTimeout(() => {
+            const alert = document.getElementById('alertBox');
+            if (alert) {
+                alert.style.transition = 'opacity 0.5s ease';
+                alert.style.opacity = '0';
+                window.setTimeout(() => alert.style.display = 'none', 500);
+            }
+        }, 4000); // Hide after 4 seconds
+    </script>
+}

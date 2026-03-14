@@ -1,0 +1,61 @@
+﻿@model IEnumerable<CarSalesAndInventoryManagementSystem.Models.TestDrive>
+
+@{
+    ViewBag.Title = "Manage Test Drives";
+}
+
+<div class="container">
+    <h2>Manage Test Drive Bookings</h2>
+    <hr />
+
+    <p>Review and update the status of all customer test drive requests.</p>
+
+    <table class="table table-bordered table-striped">
+        <tr class="info">
+            <th>Customer</th>
+            <th>Car Requested</th>
+            <th>Date Requested</th>
+            <th>Status</th>
+            <th>Actions</th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.User.Name)</td>
+                <td>@Html.DisplayFor(modelItem => item.Car.Brand) @Html.DisplayFor(modelItem => item.Car.Model)</td>
+                <td>@item.DateRequested.ToString("dd MMM yyyy, hh:mm tt")</td>
+                <td>
+                    @if (item.Status != null && item.Status.Equals("Confirmed", StringComparison.OrdinalIgnoreCase))
+                    {
+                        <span class="label label-success">@item.Status</span>
+                    }
+                    else if (item.Status != null && item.Status.Equals("Completed", StringComparison.OrdinalIgnoreCase))
+                    {
+                        <span class="label label-primary">@item.Status</span>
+                    }
+                    else
+                    {
+                        <span class="label label-warning">@item.Status</span>
+                    }
+                </td>
+                <td>
+                    @using (Html.BeginForm("UpdateTestDriveStatus", "Admin", FormMethod.Post, new { @class = "form-inline" }))
+                    {
+                        @Html.AntiForgeryToken()
+                        @Html.Hidden("testDriveId", item.TestDriveID)
+
+                        @Html.DropDownList("status", new SelectList(new[] { "Requested", "Confirmed", "Completed", "Cancelled" }, item.Status), new { @class = "form-control input-sm" })
+
+                        <button type="submit" class="btn btn-xs btn-primary">Update</button>
+                    }
+                </td>
+            </tr>
+        }
+
+    </table>
+    @* Back BUTTON *@
+    <div class="form-actions no-color" style="margin-top: 20px;">
+        @Html.ActionLink("<< Back to Admin Dashboard", "Dashboard", "Admin", null, new { @class = "btn btn-default" })
+    </div>
+</div>

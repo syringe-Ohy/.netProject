@@ -1,0 +1,77 @@
+﻿@model CarSalesAndInventoryManagementSystem.Models.CarRequest
+
+@{
+
+    ViewBag.Title = "Edit Car Request";
+
+}
+
+<div class="container" style="max-width: 700px;">
+    <h2>Edit Your Car Request</h2>
+    <hr />
+
+    @using (Html.BeginForm())
+
+    {
+
+        @Html.AntiForgeryToken()
+
+        <div class="form-horizontal">
+
+            @Html.ValidationSummary(false, "", new { @class = "text-danger" })
+
+            @Html.HiddenFor(model => model.CarRequestID)
+
+            @Html.HiddenFor(model => model.UserID)
+
+            @Html.HiddenFor(model => model.RequestDate)
+
+            @Html.HiddenFor(model => model.Status)
+
+            <div class="form-group mb-3">
+
+                @Html.LabelFor(model => model.Brand, htmlAttributes: new { @class = "control-label" })
+
+                @Html.EditorFor(model => model.Brand, new { htmlAttributes = new { @class = "form-control" } })
+
+                @Html.ValidationMessageFor(model => model.Brand, "", new { @class = "text-danger" })
+            </div>
+
+            <div class="form-group mb-3">
+
+                @Html.LabelFor(model => model.Model, htmlAttributes: new { @class = "control-label" })
+
+                @Html.EditorFor(model => model.Model, new { htmlAttributes = new { @class = "form-control" } })
+
+                @Html.ValidationMessageFor(model => model.Model, "", new { @class = "text-danger" })
+            </div>
+
+            <div class="form-group mb-3">
+
+                @Html.LabelFor(model => model.EngineType, htmlAttributes: new { @class = "control-label" })
+
+                @Html.EditorFor(model => model.EngineType, new { htmlAttributes = new { @class = "form-control" } })
+
+                @Html.ValidationMessageFor(model => model.EngineType, "", new { @class = "text-danger" })
+            </div>
+
+            <div class="form-group mb-3">
+
+                @Html.LabelFor(model => model.Notes, htmlAttributes: new { @class = "control-label" })
+
+                @Html.TextAreaFor(model => model.Notes, new { @class = "form-control", rows = 4 })
+
+                @Html.ValidationMessageFor(model => model.Notes, "", new { @class = "text-danger" })
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Save Changes" class="btn btn-primary" />
+
+                @Html.ActionLink("Cancel", "MyCarRequests", null, new { @class = "btn btn-default" })
+            </div>
+        </div>
+
+    }
+</div>
+
+

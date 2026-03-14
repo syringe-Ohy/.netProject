@@ -1,0 +1,58 @@
+﻿@model CarSalesAndInventoryManagementSystem.Models.TestDrive
+
+@{
+
+    ViewBag.Title = "Book a Test Drive";
+
+}
+
+<div class="container" style="max-width: 700px; margin-top: 30px;">
+    <h2>Book a Test Drive</h2>
+    <p class="lead">Select your desired car and date, and we'll get back to you to confirm.</p>
+    <hr />
+
+    @using (Html.BeginForm("Create", "TestDrive", FormMethod.Post))
+
+    {
+
+        @Html.AntiForgeryToken()
+
+        <div class="form-horizontal">
+
+            @* --- FIX: Changed 'true' to 'false' to display all validation errors --- *@
+
+            @Html.ValidationSummary(false, "", new { @class = "alert alert-danger" })
+
+            <div class="form-group mb-3">
+
+                @Html.LabelFor(model => model.CarID, "Select Car", htmlAttributes: new { @class = "control-label" })
+
+                @* This dropdown is populated from the ViewBag.CarList in the controller *@
+
+                @Html.DropDownListFor(model => model.CarID, (SelectList)ViewBag.CarList, "--- Please select a car ---", new { @class = "form-control" })
+
+                @Html.ValidationMessageFor(model => model.CarID, "", new { @class = "text-danger" })
+            </div>
+
+            <div class="form-group mb-3">
+
+                @Html.LabelFor(model => model.DateRequested, "Preferred Date", htmlAttributes: new { @class = "control-label" })
+
+                @* We use EditorFor, and the DataType attribute in the model helps render a date picker *@
+
+                @Html.EditorFor(model => model.DateRequested, new { htmlAttributes = new { @class = "form-control" } })
+
+                @Html.ValidationMessageFor(model => model.DateRequested, "", new { @class = "text-danger" })
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Submit Request" class="btn btn-primary" />
+
+                @Html.ActionLink("Cancel", "Dashboard", "Customer", null, new { @class = "btn btn-default" })
+            </div>
+        </div>
+
+    }
+</div>
+
+

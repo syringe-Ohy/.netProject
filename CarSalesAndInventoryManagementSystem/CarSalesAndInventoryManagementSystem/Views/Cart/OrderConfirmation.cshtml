@@ -1,0 +1,64 @@
+﻿@model CarSalesAndInventoryManagementSystem.Models.Order
+
+@{
+    ViewBag.Title = "Order Confirmation";
+}
+
+<h2>Order Confirmation</h2>
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success">@TempData["SuccessMessage"]</div>
+}
+
+<p>Thank you for your order!</p>
+
+<div>
+    <h4>Order Details</h4>
+    <p><strong>Order ID:</strong> @Model.OrderID</p>
+    <p><strong>Order Date:</strong> @Model.OrderDate.ToString("f")</p>
+    <p><strong>Status:</strong> @Model.Status</p>
+    <p><strong>Total Amount:</strong> @Model.TotalAmount</p>
+
+    <h5>Items:</h5>
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Product</th>
+                <th>Type</th>
+                <th>Quantity</th>
+                <th>Unit Price</th>
+                <th>Subtotal</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.OrderItems)
+            {
+                <tr>
+                    <td>
+                        @{
+                            var productName = "";
+                            if (item.CarID != null)
+                            {
+                                var car = Model.OrderItems.FirstOrDefault(o => o.CarID == item.CarID);
+                                productName = car != null ? car.CarID.ToString() : "Car";
+                            }
+                            else if (item.PartID != null)
+                            {
+                                productName = "Part"; // You can enhance to show part name if needed
+                            }
+                        }
+                        @productName
+                    </td>
+                    <td>@(item.CarID != null ? "Car" : "Part")</td>
+                    <td>@item.Quantity</td>
+                    <td>@item.UnitPrice.ToString("C")</td>
+                    <td>@(item.UnitPrice * item.Quantity)</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+<a href="@Url.Action("Index", "Home")" class="btn btn-primary">Back to Home</a>
+

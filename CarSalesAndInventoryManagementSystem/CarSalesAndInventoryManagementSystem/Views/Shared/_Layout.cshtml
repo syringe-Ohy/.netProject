@@ -1,0 +1,78 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Car Sales and Inventory</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container-fluid">
+            @if (Session["Role"] == null )
+            {
+                @Html.ActionLink("Car Sales And Inventory Store", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+            }
+            else if (Session["Role"].ToString() == "Customer")
+            {
+                <span class="navbar-brand">Car Sales And Inventory Store</span>
+            }
+
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mainNavbar" aria-controls="mainNavbar" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="mainNavbar">
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                        <li>@Html.ActionLink("About", "About", "Home", new { area = "" }, new { @class = "nav-link" })</li>
+                        <li>@Html.ActionLink("Contact", "Contact", "Home", new { area = "" }, new { @class = "nav-link" })</li>
+                    </ul>
+
+                    <ul class="navbar-nav">
+                        @if (Session["UserID"] != null)
+                        {
+                            // User is LOGGED IN
+                            if (Session["Role"] as string == "Customer")
+                            {
+                                @Html.Action("CartSummary", "Cart")
+                            }
+
+                            <li class="nav-item">
+                                <span class="nav-link text-light">Welcome, @Session["UserName"]</span>
+                            </li>
+
+                            if (Session["Role"] as string == "Admin")
+                            {
+                                <li class="nav-item">@Html.ActionLink("Admin Dashboard", "Dashboard", "Admin", new { area = "" }, new { @class = "nav-link" })</li>
+                            }
+                            else
+                            {
+                                <li class="nav-item">@Html.ActionLink("My Dashboard", "Dashboard", "Customer", new { area = "" }, new { @class = "nav-link" })</li>
+                                <li class="nav-item">@Html.ActionLink("My Test Drives", "MyTestDrives", "TestDrive", new { area = "" }, new { @class = "nav-link" })</li>
+                            }
+
+                            <li class="nav-item">@Html.ActionLink("Logout", "Logout", "User", new { area = "" }, new { @class = "nav-link" })</li>
+                        }
+                        else
+                        {
+                            // User is LOGGED OUT
+                            <li class="nav-item">@Html.ActionLink("Sign Up", "SignUp", "User", new { area = "" }, new { @class = "nav-link" })</li>
+                            <li class="nav-item">@Html.ActionLink("Login", "Login", "User", new { area = "" }, new { @class = "nav-link" })</li>
+                        }
+                    </ul>
+                </div>
+            </div>
+    </nav>
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - Car Sales And Inventory Store</p>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

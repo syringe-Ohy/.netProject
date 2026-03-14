@@ -1,0 +1,93 @@
+﻿@model IEnumerable<CarSalesAndInventoryManagementSystem.Models.Car>
+
+@{
+    ViewBag.Title = "Browse Cars";
+}
+
+<style>
+    .car-card {
+        border: 1px solid #ddd;
+        border-radius: 8px;
+        margin-bottom: 30px;
+        transition: box-shadow .3s;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        background-color: #fff;
+    }
+
+        .car-card:hover {
+            box-shadow: 0 0 11px rgba(33,33,33,.2);
+        }
+
+    .car-card-img-container {
+        height: 220px;
+        overflow: hidden;
+        border-top-left-radius: 8px;
+        border-top-right-radius: 8px;
+    }
+
+        .car-card-img-container img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover; /* This makes the image cover the area nicely */
+        }
+
+    .car-card-body {
+        padding: 20px;
+        flex-grow: 1;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .car-card-title {
+        font-weight: bold;
+        font-size: 1.5em;
+        margin-top: 0;
+    }
+
+    .car-card-price {
+        font-size: 1.8em;
+        color: #28a745;
+        font-weight: bold;
+        margin-top: auto; /* Pushes price to the bottom */
+    }
+
+    .car-card-footer {
+        padding: 20px;
+        border-top: 1px solid #eee;
+        background-color: #f9f9f9;
+    }
+</style>
+
+<div class="container">
+    <div class="page-header">
+        <h1>Explore Our Collection of Cars</h1>
+        <p class="lead">Find the perfect vehicle that fits your lifestyle.</p>
+    </div>
+
+    <div class="row">
+        @foreach (var item in Model)
+        {
+            <div class="col-sm-6 col-md-4">
+                <div class="car-card">
+                    <div class="car-card-img-container">
+                        <img src="@(string.IsNullOrEmpty(item.ImageUrl) ? $"https://placehold.co/400x300/EFEFEF/AAAAAA?text={item.Brand}" : item.ImageUrl)"
+                             alt="Image of @item.Brand @item.Model"
+                             onerror="this.onerror=null; this.src='https://placehold.co/400x300/EFEFEF/AAAAAA?text=Image+Error';">
+                    </div>
+                    <div class="car-card-body">
+                        <h3 class="car-card-title">@item.Brand @item.Model</h3>
+                        <p class="text-muted">Engine: @item.EngineType</p>
+                        <div class="car-card-price">
+                            @String.Format("{0:C}", item.Price)
+                        </div>
+                    </div>
+                    <div class="car-card-footer">
+                        @Html.ActionLink("View Details & Purchase", "CarDetails", "Customer", new { id = item.CarID }, new { @class = "btn btn-primary btn-block" })
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

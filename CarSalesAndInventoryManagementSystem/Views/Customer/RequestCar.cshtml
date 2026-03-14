@@ -1,0 +1,137 @@
+﻿@{
+
+    ViewBag.Title = "Request a Car";
+
+}
+
+<div class="container" style="max-width: 700px; margin-top: 30px;">
+    <h2>Request a Car</h2>
+    <p class="lead">Can't find the car you're looking for? Fill out the form below, and we'll do our best to find it for you.</p>
+    <hr />
+
+    <!-- This form will be submitted using JavaScript -->
+    <form id="requestCarForm">
+        <!-- This div will display success or error messages from the API call -->
+        <div id="message-area"></div>
+
+        <div class="form-group mb-3">
+            <label for="brand" class="form-label">Brand</label>
+            <input type="text" id="brand" class="form-control" placeholder="e.g., Toyota" required />
+        </div>
+
+        <div class="form-group mb-3">
+            <label for="model" class="form-label">Model</label>
+            <input type="text" id="model" class="form-control" placeholder="e.g., Supra" required />
+        </div>
+
+        <div class="form-group mb-3">
+            <label for="engineType" class="form-label">Engine Type (Optional)</label>
+            <input type="text" id="engineType" class="form-control" placeholder="e.g., Petrol, Hybrid" />
+        </div>
+
+        <div class="form-group mb-3">
+            <label for="notes" class="form-label">Additional Notes (Optional)</label>
+<textarea id="notes" class="form-control" rows="4" placeholder="Any specific color, year, or features?"></textarea>
+        </div>
+
+        <div class="form-group">
+            <button type="submit" class="btn btn-primary">Submit Request</button>
+
+            @Html.ActionLink("Back to Dashboard", "Dashboard", "Customer", null, new { @class = "btn btn-default" })
+        </div>
+    </form>
+</div>
+
+@section Scripts {
+    <script>
+
+        document.addEventListener('DOMContentLoaded', function () {
+
+            const form = document.getElementById('requestCarForm');
+
+            const messageArea = document.getElementById('message-area');
+
+            form.addEventListener('submit', function (event) {
+
+                // Prevent the default form submission (which reloads the page)
+
+                event.preventDefault();
+
+                const requestData = {
+
+                    Brand: document.getElementById('brand').value,
+
+                    Model: document.getElementById('model').value,
+
+                    EngineType: document.getElementById('engineType').value,
+
+                    Notes: document.getElementById('notes').value
+
+                };
+
+                // Show a "sending" message
+
+                messageArea.innerHTML = '<div class="alert alert-info">Submitting your request...</div>';
+
+                // Send the data to the API using fetch. The URL must match your API controller's route.
+
+                fetch('/api/CarRequestApi', {
+
+                    method: 'POST',
+
+                    headers: {
+
+                        'Content-Type': 'application/json',
+
+                    },
+
+                    body: JSON.stringify(requestData)
+
+                })
+
+                    .then(response => {
+
+                        if (response.ok) {
+
+                            return response.json();
+
+                        }
+
+                        // Handle errors like not being logged in (401 Unauthorized)
+
+                        if (response.status === 401) {
+
+                            throw new Error('You must be logged in to make a request.');
+
+                        }
+
+                        throw new Error('An unknown error occurred.');
+
+                    })
+
+                    .then(data => {
+
+                        // Show the success message from the API
+
+                        messageArea.innerHTML = `<div class="alert alert-success">${data.message}</div>`;
+
+                        form.reset(); // Clear the form after successful submission
+
+                    })
+
+                    .catch(error => {
+
+                        // Show any errors to the user
+
+                        messageArea.innerHTML = `<div class="alert alert-danger">${error.message}</div>`;
+
+                    });
+
+            });
+
+        });
+    </script>
+
+}
+
+

@@ -1,0 +1,103 @@
+﻿@model IEnumerable<CarSalesAndInventoryManagementSystem.Models.TestDrive>
+
+@{
+
+    ViewBag.Title = "My Test Drives";
+
+}
+
+<div class="container">
+    <h2>My Test Drive Bookings</h2>
+    <hr />
+
+    @if (TempData["SuccessMessage"] != null)
+
+    {
+        <div class="alert alert-success">@TempData["SuccessMessage"]</div>
+
+    }
+
+    @if (TempData["ErrorMessage"] != null)
+
+    {
+        <div class="alert alert-danger">@TempData["ErrorMessage"]</div>
+
+    }
+
+    <p>Here is a history of your test drive requests and their current status.</p>
+
+    <table class="table table-hover">
+        <thead>
+            <tr>
+                <th>Car</th>
+                <th>Date Requested</th>
+                <th>Status</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+
+            @foreach (var item in Model)
+
+            {
+                <tr>
+                    <td>@item.Car.Brand @item.Car.Model</td>
+                    <td>@item.DateRequested.ToString("dd MMM yyyy")</td>
+                    <td>
+
+                        @if (item.Status == "Confirmed")
+
+                        {
+                            <span class="label label-success">@item.Status</span>
+
+                        }
+
+                        else if (item.Status == "Completed" || item.Status == "Cancelled")
+
+                        {
+                            <span class="label label-default">@item.Status</span>
+
+                        }
+
+                        else
+
+                        {
+                            <span class="label label-warning">@item.Status</span>
+
+                        }
+                    </td>
+                    <td class="text-right">
+
+                        @if (item.Status == "Requested")
+
+                        {
+
+                            using (Html.BeginForm("Cancel", "TestDrive", new { id = item.TestDriveID }, FormMethod.Post))
+
+                            {
+
+                                @Html.AntiForgeryToken()
+                                <button type="submit" class="btn btn-xs btn-danger" onclick="return confirm('Are you sure you want to cancel this booking?');">
+
+                                    Cancel
+                                </button>
+
+                            }
+
+                        }
+                    </td>
+                </tr>
+
+            }
+        </tbody>
+    </table>
+
+    <div class="form-actions no-color" style="margin-top: 20px;">
+
+        @Html.ActionLink("Book Another Test Drive", "Create", "TestDrive", null, new { @class = "btn btn-primary" })
+
+        @Html.ActionLink("<< Back to Dashboard", "Dashboard", "Customer", null, new { @class = "btn btn-default" })
+    </div>
+</div>
+
+

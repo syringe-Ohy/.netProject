@@ -1,0 +1,1201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|E:\\.net er project\\CarSalesAndInventoryManagementSystem\\carsalesandinventorymanagementsystem\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|solutionrelative:carsalesandinventorymanagementsystem\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|e:\\.net er project\\carsalesandinventorymanagementsystem\\carsalesandinventorymanagementsystem\\views\\admin\\gdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|solutionrelative:carsalesandinventorymanagementsystem\\views\\admin\\gdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|E:\\.net er project\\CarSalesAndInventoryManagementSystem\\carsalesandinventorymanagementsystem\\views\\admin\\managetestdrives.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|solutionrelative:carsalesandinventorymanagementsystem\\views\\admin\\managetestdrives.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|e:\\.net er project\\carsalesandinventorymanagementsystem\\carsalesandinventorymanagementsystem\\views\\admin\\salesreport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|solutionrelative:carsalesandinventorymanagementsystem\\views\\admin\\salesreport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|e:\\.net er project\\carsalesandinventorymanagementsystem\\carsalesandinventorymanagementsystem\\views\\admin\\managecarrequests.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|solutionrelative:carsalesandinventorymanagementsystem\\views\\admin\\managecarrequests.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|E:\\.net er project\\CarSalesAndInventoryManagementSystem\\carsalesandinventorymanagementsystem\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|solutionrelative:carsalesandinventorymanagementsystem\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|E:\\.net er project\\CarSalesAndInventoryManagementSystem\\carsalesandinventorymanagementsystem\\controllers\\testdrivecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|solutionrelative:carsalesandinventorymanagementsystem\\controllers\\testdrivecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|E:\\.net er project\\CarSalesAndInventoryManagementSystem\\carsalesandinventorymanagementsystem\\models\\part.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|solutionrelative:carsalesandinventorymanagementsystem\\models\\part.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|E:\\.net er project\\CarSalesAndInventoryManagementSystem\\carsalesandinventorymanagementsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|solutionrelative:carsalesandinventorymanagementsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|E:\\.net er project\\CarSalesAndInventoryManagementSystem\\carsalesandinventorymanagementsystem\\views\\admin\\orderdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|solutionrelative:carsalesandinventorymanagementsystem\\views\\admin\\orderdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|e:\\.net er project\\carsalesandinventorymanagementsystem\\carsalesandinventorymanagementsystem\\controllers\\api\\carrequestapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|solutionrelative:carsalesandinventorymanagementsystem\\controllers\\api\\carrequestapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|e:\\.net er project\\carsalesandinventorymanagementsystem\\carsalesandinventorymanagementsystem\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|solutionrelative:carsalesandinventorymanagementsystem\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|E:\\.net er project\\CarSalesAndInventoryManagementSystem\\carsalesandinventorymanagementsystem\\models\\testdrive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|solutionrelative:carsalesandinventorymanagementsystem\\models\\testdrive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|e:\\.net er project\\carsalesandinventorymanagementsystem\\carsalesandinventorymanagementsystem\\views\\customer\\orderdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|solutionrelative:carsalesandinventorymanagementsystem\\views\\customer\\orderdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|E:\\.net er project\\CarSalesAndInventoryManagementSystem\\carsalesandinventorymanagementsystem\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|solutionrelative:carsalesandinventorymanagementsystem\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|E:\\.net er project\\CarSalesAndInventoryManagementSystem\\carsalesandinventorymanagementsystem\\views\\customer\\myorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|solutionrelative:carsalesandinventorymanagementsystem\\views\\customer\\myorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|E:\\.net er project\\CarSalesAndInventoryManagementSystem\\carsalesandinventorymanagementsystem\\views\\customer\\cardetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|solutionrelative:carsalesandinventorymanagementsystem\\views\\customer\\cardetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|e:\\.net er project\\carsalesandinventorymanagementsystem\\carsalesandinventorymanagementsystem\\controllers\\carrequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|solutionrelative:carsalesandinventorymanagementsystem\\controllers\\carrequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|E:\\.net er project\\CarSalesAndInventoryManagementSystem\\carsalesandinventorymanagementsystem\\views\\admin\\manageorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|solutionrelative:carsalesandinventorymanagementsystem\\views\\admin\\manageorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|E:\\.net er project\\CarSalesAndInventoryManagementSystem\\carsalesandinventorymanagementsystem\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|solutionrelative:carsalesandinventorymanagementsystem\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|E:\\.net er project\\CarSalesAndInventoryManagementSystem\\carsalesandinventorymanagementsystem\\views\\customer\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|solutionrelative:carsalesandinventorymanagementsystem\\views\\customer\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|e:\\.net er project\\carsalesandinventorymanagementsystem\\carsalesandinventorymanagementsystem\\views\\carrequest\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|solutionrelative:carsalesandinventorymanagementsystem\\views\\carrequest\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|e:\\.net er project\\carsalesandinventorymanagementsystem\\carsalesandinventorymanagementsystem\\views\\carrequest\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|solutionrelative:carsalesandinventorymanagementsystem\\views\\carrequest\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|e:\\.net er project\\carsalesandinventorymanagementsystem\\carsalesandinventorymanagementsystem\\views\\carrequest\\mycarrequests.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|solutionrelative:carsalesandinventorymanagementsystem\\views\\carrequest\\mycarrequests.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|E:\\.net er project\\CarSalesAndInventoryManagementSystem\\carsalesandinventorymanagementsystem\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|solutionrelative:carsalesandinventorymanagementsystem\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|e:\\.net er project\\carsalesandinventorymanagementsystem\\carsalesandinventorymanagementsystem\\views\\customer\\requestcar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|solutionrelative:carsalesandinventorymanagementsystem\\views\\customer\\requestcar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|e:\\.net er project\\carsalesandinventorymanagementsystem\\carsalesandinventorymanagementsystem\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|solutionrelative:carsalesandinventorymanagementsystem\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|e:\\.net er project\\carsalesandinventorymanagementsystem\\carsalesandinventorymanagementsystem\\migrations\\202506231218198_modifymytable4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|solutionrelative:carsalesandinventorymanagementsystem\\migrations\\202506231218198_modifymytable4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|E:\\.net er project\\CarSalesAndInventoryManagementSystem\\carsalesandinventorymanagementsystem\\context\\carsales\u0026inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|solutionrelative:carsalesandinventorymanagementsystem\\context\\carsales\u0026inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|e:\\.net er project\\carsalesandinventorymanagementsystem\\carsalesandinventorymanagementsystem\\models\\carrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|solutionrelative:carsalesandinventorymanagementsystem\\models\\carrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|e:\\.net er project\\carsalesandinventorymanagementsystem\\carsalesandinventorymanagementsystem\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|solutionrelative:carsalesandinventorymanagementsystem\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|E:\\.net er project\\CarSalesAndInventoryManagementSystem\\carsalesandinventorymanagementsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|solutionrelative:carsalesandinventorymanagementsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|E:\\.net er project\\CarSalesAndInventoryManagementSystem\\carsalesandinventorymanagementsystem\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|solutionrelative:carsalesandinventorymanagementsystem\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|E:\\.net er project\\CarSalesAndInventoryManagementSystem\\carsalesandinventorymanagementsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|solutionrelative:carsalesandinventorymanagementsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|E:\\.net er project\\CarSalesAndInventoryManagementSystem\\carsalesandinventorymanagementsystem\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|solutionrelative:carsalesandinventorymanagementsystem\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|E:\\.net er project\\CarSalesAndInventoryManagementSystem\\carsalesandinventorymanagementsystem\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|solutionrelative:carsalesandinventorymanagementsystem\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|E:\\.net er project\\CarSalesAndInventoryManagementSystem\\carsalesandinventorymanagementsystem\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|solutionrelative:carsalesandinventorymanagementsystem\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|E:\\.net er project\\CarSalesAndInventoryManagementSystem\\carsalesandinventorymanagementsystem\\views\\customer\\browsecars.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|solutionrelative:carsalesandinventorymanagementsystem\\views\\customer\\browsecars.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|E:\\.net er project\\CarSalesAndInventoryManagementSystem\\carsalesandinventorymanagementsystem\\views\\cart\\orderconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|solutionrelative:carsalesandinventorymanagementsystem\\views\\cart\\orderconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|E:\\.net er project\\CarSalesAndInventoryManagementSystem\\carsalesandinventorymanagementsystem\\views\\testdrive\\mytestdrives.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|solutionrelative:carsalesandinventorymanagementsystem\\views\\testdrive\\mytestdrives.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|E:\\.net er project\\CarSalesAndInventoryManagementSystem\\carsalesandinventorymanagementsystem\\views\\testdrive\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|solutionrelative:carsalesandinventorymanagementsystem\\views\\testdrive\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|E:\\.net er project\\CarSalesAndInventoryManagementSystem\\carsalesandinventorymanagementsystem\\views\\admin\\deletecar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|solutionrelative:carsalesandinventorymanagementsystem\\views\\admin\\deletecar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|E:\\.net er project\\CarSalesAndInventoryManagementSystem\\carsalesandinventorymanagementsystem\\views\\admin\\partinventory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|solutionrelative:carsalesandinventorymanagementsystem\\views\\admin\\partinventory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|E:\\.net er project\\CarSalesAndInventoryManagementSystem\\carsalesandinventorymanagementsystem\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|solutionrelative:carsalesandinventorymanagementsystem\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/._SQLEXPRESS/CARSALESANDINVENTORYSYSTEM_2d33732dc79a40f4801cc3afcfe5fdfb/True/SqlTable/dbo.TestDrives.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/._SQLEXPRESS/CARSALESANDINVENTORYSYSTEM_2d33732dc79a40f4801cc3afcfe5fdfb/True/SqlTable/dbo.Parts.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|E:\\.net er project\\CarSalesAndInventoryManagementSystem\\carsalesandinventorymanagementsystem\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|solutionrelative:carsalesandinventorymanagementsystem\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|E:\\.net er project\\CarSalesAndInventoryManagementSystem\\carsalesandinventorymanagementsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|solutionrelative:carsalesandinventorymanagementsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/._SQLEXPRESS/CARSALESANDINVENTORYSYSTEM_2d33732dc79a40f4801cc3afcfe5fdfb/True/SqlTable/dbo.Payments.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/._SQLEXPRESS/CARSALESANDINVENTORYSYSTEM_2d33732dc79a40f4801cc3afcfe5fdfb/True/SqlTable/dbo.OrderItems.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/._SQLEXPRESS/CARSALESANDINVENTORYSYSTEM_2d33732dc79a40f4801cc3afcfe5fdfb/True/SqlTable/dbo.Orders.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|E:\\.net er project\\CarSalesAndInventoryManagementSystem\\carsalesandinventorymanagementsystem\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|solutionrelative:carsalesandinventorymanagementsystem\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|E:\\.net er project\\CarSalesAndInventoryManagementSystem\\carsalesandinventorymanagementsystem\\migrations\\202506230539366_fixorderitemstructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|solutionrelative:carsalesandinventorymanagementsystem\\migrations\\202506230539366_fixorderitemstructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|E:\\.net er project\\CarSalesAndInventoryManagementSystem\\carsalesandinventorymanagementsystem\\views\\admin\\carinventory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|solutionrelative:carsalesandinventorymanagementsystem\\views\\admin\\carinventory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|E:\\.net er project\\CarSalesAndInventoryManagementSystem\\carsalesandinventorymanagementsystem\\views\\admin\\addadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|solutionrelative:carsalesandinventorymanagementsystem\\views\\admin\\addadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|E:\\.net er project\\CarSalesAndInventoryManagementSystem\\carsalesandinventorymanagementsystem\\migrations\\202506222020517_updatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|solutionrelative:carsalesandinventorymanagementsystem\\migrations\\202506222020517_updatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|E:\\.net er project\\CarSalesAndInventoryManagementSystem\\carsalesandinventorymanagementsystem\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|solutionrelative:carsalesandinventorymanagementsystem\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/._SQLEXPRESS/CARSALESANDINVENTORYSYSTEM_2d33732dc79a40f4801cc3afcfe5fdfb/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|E:\\.net er project\\CarSalesAndInventoryManagementSystem\\carsalesandinventorymanagementsystem\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|solutionrelative:carsalesandinventorymanagementsystem\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDb__MSSQLLocalDB/CARSALESANDINVENTORYSYSTEM_2d33732dc79a40f4801cc3afcfe5fdfb/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|E:\\.net er project\\CarSalesAndInventoryManagementSystem\\carsalesandinventorymanagementsystem\\migrations\\202506221445090_modifymytable3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|solutionrelative:carsalesandinventorymanagementsystem\\migrations\\202506221445090_modifymytable3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|E:\\.net er project\\CarSalesAndInventoryManagementSystem\\carsalesandinventorymanagementsystem\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|solutionrelative:carsalesandinventorymanagementsystem\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|E:\\.net er project\\CarSalesAndInventoryManagementSystem\\carsalesandinventorymanagementsystem\\migrations\\202506221431531_modifymytable2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|solutionrelative:carsalesandinventorymanagementsystem\\migrations\\202506221431531_modifymytable2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|E:\\.net er project\\CarSalesAndInventoryManagementSystem\\carsalesandinventorymanagementsystem\\views\\admin\\editpart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|solutionrelative:carsalesandinventorymanagementsystem\\views\\admin\\editpart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|E:\\.net er project\\CarSalesAndInventoryManagementSystem\\carsalesandinventorymanagementsystem\\views\\admin\\editcar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|solutionrelative:carsalesandinventorymanagementsystem\\views\\admin\\editcar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|E:\\.net er project\\CarSalesAndInventoryManagementSystem\\carsalesandinventorymanagementsystem\\views\\admin\\addpart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|solutionrelative:carsalesandinventorymanagementsystem\\views\\admin\\addpart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|E:\\.net er project\\CarSalesAndInventoryManagementSystem\\carsalesandinventorymanagementsystem\\views\\admin\\addcar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|solutionrelative:carsalesandinventorymanagementsystem\\views\\admin\\addcar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|E:\\.net er project\\CarSalesAndInventoryManagementSystem\\carsalesandinventorymanagementsystem\\migrations\\202506141700253_modifymytable1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|solutionrelative:carsalesandinventorymanagementsystem\\migrations\\202506141700253_modifymytable1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDb__MSSQLLocalDB/CarSalesAndInventoryManagementSystem.Context.CarSales_Inventory/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|E:\\.net er project\\CarSalesAndInventoryManagementSystem\\carsalesandinventorymanagementsystem\\migrations\\202506141618147_modifymytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|solutionrelative:carsalesandinventorymanagementsystem\\migrations\\202506141618147_modifymytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|E:\\.net er project\\CarSalesAndInventoryManagementSystem\\carsalesandinventorymanagementsystem\\migrations\\202506141525585_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|solutionrelative:carsalesandinventorymanagementsystem\\migrations\\202506141525585_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|E:\\.net er project\\CarSalesAndInventoryManagementSystem\\carsalesandinventorymanagementsystem\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21D9F555-1E8F-4DD4-BC23-3F90652D5BF1}|CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem.csproj|solutionrelative:carsalesandinventorymanagementsystem\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Views\\Cart\\OrderConformation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CarSalesAndInventoryManagementSystem\\Views\\Cart\\OrderConformation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "CarSalesAndInventoryManagementSystem\\Controllers\\AdminController.cs",
+              "ToolTip": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "CarSalesAndInventoryManagementSystem\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAgBAAAAAAAAAAAIwNMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T16:04:24.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "CarSalesAndInventoryManagementSystem\\Controllers\\CustomerController.cs",
+              "ToolTip": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "CarSalesAndInventoryManagementSystem\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwCcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T08:00:49.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ManageCarRequests.cshtml",
+              "DocumentMoniker": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Views\\Admin\\ManageCarRequests.cshtml",
+              "RelativeDocumentMoniker": "CarSalesAndInventoryManagementSystem\\Views\\Admin\\ManageCarRequests.cshtml",
+              "ToolTip": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Views\\Admin\\ManageCarRequests.cshtml",
+              "RelativeToolTip": "CarSalesAndInventoryManagementSystem\\Views\\Admin\\ManageCarRequests.cshtml",
+              "ViewState": "AgIAACAAAAAAAAAAAAAUwC8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T12:30:01.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GDetails.cshtml",
+              "DocumentMoniker": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Views\\Admin\\GDetails.cshtml",
+              "RelativeDocumentMoniker": "CarSalesAndInventoryManagementSystem\\Views\\Admin\\GDetails.cshtml",
+              "ToolTip": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Views\\Admin\\GDetails.cshtml*",
+              "RelativeToolTip": "CarSalesAndInventoryManagementSystem\\Views\\Admin\\GDetails.cshtml*",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAwFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T14:17:34.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "CarSalesAndInventoryManagementSystem\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "CarSalesAndInventoryManagementSystem\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T12:26:51.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SalesReport.cshtml",
+              "DocumentMoniker": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Views\\Admin\\SalesReport.cshtml",
+              "RelativeDocumentMoniker": "CarSalesAndInventoryManagementSystem\\Views\\Admin\\SalesReport.cshtml",
+              "ToolTip": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Views\\Admin\\SalesReport.cshtml",
+              "RelativeToolTip": "CarSalesAndInventoryManagementSystem\\Views\\Admin\\SalesReport.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T13:43:21.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ManageTestDrives.cshtml",
+              "DocumentMoniker": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Views\\Admin\\ManageTestDrives.cshtml",
+              "RelativeDocumentMoniker": "CarSalesAndInventoryManagementSystem\\Views\\Admin\\ManageTestDrives.cshtml",
+              "ToolTip": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Views\\Admin\\ManageTestDrives.cshtml",
+              "RelativeToolTip": "CarSalesAndInventoryManagementSystem\\Views\\Admin\\ManageTestDrives.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T14:37:00.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TestDriveController.cs",
+              "DocumentMoniker": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Controllers\\TestDriveController.cs",
+              "RelativeDocumentMoniker": "CarSalesAndInventoryManagementSystem\\Controllers\\TestDriveController.cs",
+              "ToolTip": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Controllers\\TestDriveController.cs",
+              "RelativeToolTip": "CarSalesAndInventoryManagementSystem\\Controllers\\TestDriveController.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAkwJYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T08:38:52.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Part.cs",
+              "DocumentMoniker": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Models\\Part.cs",
+              "RelativeDocumentMoniker": "CarSalesAndInventoryManagementSystem\\Models\\Part.cs",
+              "ToolTip": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Models\\Part.cs",
+              "RelativeToolTip": "CarSalesAndInventoryManagementSystem\\Models\\Part.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T15:11:52.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CarRequestApiController.cs",
+              "DocumentMoniker": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Controllers\\API\\CarRequestApiController.cs",
+              "RelativeDocumentMoniker": "CarSalesAndInventoryManagementSystem\\Controllers\\API\\CarRequestApiController.cs",
+              "ToolTip": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Controllers\\API\\CarRequestApiController.cs",
+              "RelativeToolTip": "CarSalesAndInventoryManagementSystem\\Controllers\\API\\CarRequestApiController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAuwE8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T12:22:05.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CarSalesAndInventoryManagementSystem\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CarSalesAndInventoryManagementSystem\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T15:56:07.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TestDrive.cs",
+              "DocumentMoniker": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Models\\TestDrive.cs",
+              "RelativeDocumentMoniker": "CarSalesAndInventoryManagementSystem\\Models\\TestDrive.cs",
+              "ToolTip": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Models\\TestDrive.cs",
+              "RelativeToolTip": "CarSalesAndInventoryManagementSystem\\Models\\TestDrive.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T15:14:36.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MyOrders.cshtml",
+              "DocumentMoniker": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Views\\Customer\\MyOrders.cshtml",
+              "RelativeDocumentMoniker": "CarSalesAndInventoryManagementSystem\\Views\\Customer\\MyOrders.cshtml",
+              "ToolTip": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Views\\Customer\\MyOrders.cshtml",
+              "RelativeToolTip": "CarSalesAndInventoryManagementSystem\\Views\\Customer\\MyOrders.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T07:39:02.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CarDetails.cshtml",
+              "DocumentMoniker": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Views\\Customer\\CarDetails.cshtml",
+              "RelativeDocumentMoniker": "CarSalesAndInventoryManagementSystem\\Views\\Customer\\CarDetails.cshtml",
+              "ToolTip": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Views\\Customer\\CarDetails.cshtml",
+              "RelativeToolTip": "CarSalesAndInventoryManagementSystem\\Views\\Customer\\CarDetails.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T08:41:25.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderDetails.cshtml",
+              "DocumentMoniker": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Views\\Admin\\OrderDetails.cshtml",
+              "RelativeDocumentMoniker": "CarSalesAndInventoryManagementSystem\\Views\\Admin\\OrderDetails.cshtml",
+              "ToolTip": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Views\\Admin\\OrderDetails.cshtml",
+              "RelativeToolTip": "CarSalesAndInventoryManagementSystem\\Views\\Admin\\OrderDetails.cshtml",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAwFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-14T16:37:18.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "CarSalesAndInventoryManagementSystem\\Controllers\\CartController.cs",
+              "ToolTip": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Controllers\\CartController.cs",
+              "RelativeToolTip": "CarSalesAndInventoryManagementSystem\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAswI8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T05:57:27.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderDetails.cshtml",
+              "DocumentMoniker": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Views\\Customer\\OrderDetails.cshtml",
+              "RelativeDocumentMoniker": "CarSalesAndInventoryManagementSystem\\Views\\Customer\\OrderDetails.cshtml",
+              "ToolTip": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Views\\Customer\\OrderDetails.cshtml",
+              "RelativeToolTip": "CarSalesAndInventoryManagementSystem\\Views\\Customer\\OrderDetails.cshtml",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAwFkAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T14:05:52.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CarRequestController.cs",
+              "DocumentMoniker": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Controllers\\CarRequestController.cs",
+              "RelativeDocumentMoniker": "CarSalesAndInventoryManagementSystem\\Controllers\\CarRequestController.cs",
+              "ToolTip": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Controllers\\CarRequestController.cs",
+              "RelativeToolTip": "CarSalesAndInventoryManagementSystem\\Controllers\\CarRequestController.cs",
+              "ViewState": "AgIAAMcAAAAAAAAAAAAswOQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T12:23:10.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Order.cs",
+              "DocumentMoniker": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "CarSalesAndInventoryManagementSystem\\Models\\Order.cs",
+              "ToolTip": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Models\\Order.cs",
+              "RelativeToolTip": "CarSalesAndInventoryManagementSystem\\Models\\Order.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA+wB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T15:12:32.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Views\\Customer\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "CarSalesAndInventoryManagementSystem\\Views\\Customer\\Dashboard.cshtml",
+              "ToolTip": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Views\\Customer\\Dashboard.cshtml",
+              "RelativeToolTip": "CarSalesAndInventoryManagementSystem\\Views\\Customer\\Dashboard.cshtml",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAuwG4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-14T15:59:49.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ManageOrders.cshtml",
+              "DocumentMoniker": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Views\\Admin\\ManageOrders.cshtml",
+              "RelativeDocumentMoniker": "CarSalesAndInventoryManagementSystem\\Views\\Admin\\ManageOrders.cshtml",
+              "ToolTip": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Views\\Admin\\ManageOrders.cshtml",
+              "RelativeToolTip": "CarSalesAndInventoryManagementSystem\\Views\\Admin\\ManageOrders.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-14T16:36:45.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MyCarRequests.cshtml",
+              "DocumentMoniker": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Views\\CarRequest\\MyCarRequests.cshtml",
+              "RelativeDocumentMoniker": "CarSalesAndInventoryManagementSystem\\Views\\CarRequest\\MyCarRequests.cshtml",
+              "ToolTip": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Views\\CarRequest\\MyCarRequests.cshtml",
+              "RelativeToolTip": "CarSalesAndInventoryManagementSystem\\Views\\CarRequest\\MyCarRequests.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T12:31:17.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Views\\CarRequest\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CarSalesAndInventoryManagementSystem\\Views\\CarRequest\\Edit.cshtml",
+              "ToolTip": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Views\\CarRequest\\Edit.cshtml",
+              "RelativeToolTip": "CarSalesAndInventoryManagementSystem\\Views\\CarRequest\\Edit.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAuwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T12:47:04.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Views\\CarRequest\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CarSalesAndInventoryManagementSystem\\Views\\CarRequest\\Delete.cshtml",
+              "ToolTip": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Views\\CarRequest\\Delete.cshtml",
+              "RelativeToolTip": "CarSalesAndInventoryManagementSystem\\Views\\CarRequest\\Delete.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T12:47:47.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RequestCar.cshtml",
+              "DocumentMoniker": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Views\\Customer\\RequestCar.cshtml",
+              "RelativeDocumentMoniker": "CarSalesAndInventoryManagementSystem\\Views\\Customer\\RequestCar.cshtml",
+              "ToolTip": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Views\\Customer\\RequestCar.cshtml",
+              "RelativeToolTip": "CarSalesAndInventoryManagementSystem\\Views\\Customer\\RequestCar.cshtml",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAuwIkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T12:32:43.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "CarSalesAndInventoryManagementSystem\\Views\\Admin\\Dashboard.cshtml",
+              "ToolTip": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeToolTip": "CarSalesAndInventoryManagementSystem\\Views\\Admin\\Dashboard.cshtml",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAAGEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-14T16:20:43.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CarRequest.cs",
+              "DocumentMoniker": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Models\\CarRequest.cs",
+              "RelativeDocumentMoniker": "CarSalesAndInventoryManagementSystem\\Models\\CarRequest.cs",
+              "ToolTip": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Models\\CarRequest.cs",
+              "RelativeToolTip": "CarSalesAndInventoryManagementSystem\\Models\\CarRequest.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T12:14:44.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "202506231218198_ModifyMyTable4.cs",
+              "DocumentMoniker": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Migrations\\202506231218198_ModifyMyTable4.cs",
+              "RelativeDocumentMoniker": "CarSalesAndInventoryManagementSystem\\Migrations\\202506231218198_ModifyMyTable4.cs",
+              "ToolTip": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Migrations\\202506231218198_ModifyMyTable4.cs",
+              "RelativeToolTip": "CarSalesAndInventoryManagementSystem\\Migrations\\202506231218198_ModifyMyTable4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T12:18:26.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "CarSalesAndInventoryManagementSystem\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "CarSalesAndInventoryManagementSystem\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAmwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T12:03:49.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Global.asax.cs",
+              "RelativeDocumentMoniker": "CarSalesAndInventoryManagementSystem\\Global.asax.cs",
+              "ToolTip": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Global.asax.cs",
+              "RelativeToolTip": "CarSalesAndInventoryManagementSystem\\Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T12:24:54.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "OrderConfirmation.cshtml",
+              "DocumentMoniker": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Views\\Cart\\OrderConfirmation.cshtml",
+              "RelativeDocumentMoniker": "CarSalesAndInventoryManagementSystem\\Views\\Cart\\OrderConfirmation.cshtml",
+              "ToolTip": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Views\\Cart\\OrderConfirmation.cshtml",
+              "RelativeToolTip": "CarSalesAndInventoryManagementSystem\\Views\\Cart\\OrderConfirmation.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAABQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T07:28:58.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CarSalesAndInventoryManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CarSalesAndInventoryManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T15:25:43.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Views\\User\\Login.cshtml",
+              "RelativeDocumentMoniker": "CarSalesAndInventoryManagementSystem\\Views\\User\\Login.cshtml",
+              "ToolTip": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Views\\User\\Login.cshtml",
+              "RelativeToolTip": "CarSalesAndInventoryManagementSystem\\Views\\User\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-14T15:50:21.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "CarSalesAndInventoryManagementSystem\\Views\\User\\Index.cshtml",
+              "ToolTip": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "CarSalesAndInventoryManagementSystem\\Views\\User\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T14:44:08.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CarSales\u0026Inventory.cs",
+              "DocumentMoniker": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Context\\CarSales\u0026Inventory.cs",
+              "RelativeDocumentMoniker": "CarSalesAndInventoryManagementSystem\\Context\\CarSales\u0026Inventory.cs",
+              "ToolTip": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Context\\CarSales\u0026Inventory.cs",
+              "RelativeToolTip": "CarSalesAndInventoryManagementSystem\\Context\\CarSales\u0026Inventory.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T15:15:44.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CarSalesAndInventoryManagementSystem\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CarSalesAndInventoryManagementSystem\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAmwEQAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T11:12:02.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "CarSalesAndInventoryManagementSystem\\Views\\Home\\About.cshtml",
+              "ToolTip": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "CarSalesAndInventoryManagementSystem\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAACIAAAAAAAAAAAAmwC4AAACTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T12:00:52.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "CarSalesAndInventoryManagementSystem\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Controllers\\UserController.cs",
+              "RelativeToolTip": "CarSalesAndInventoryManagementSystem\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAkwHMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T15:37:30.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "BrowseCars.cshtml",
+              "DocumentMoniker": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Views\\Customer\\BrowseCars.cshtml",
+              "RelativeDocumentMoniker": "CarSalesAndInventoryManagementSystem\\Views\\Customer\\BrowseCars.cshtml",
+              "ToolTip": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Views\\Customer\\BrowseCars.cshtml",
+              "RelativeToolTip": "CarSalesAndInventoryManagementSystem\\Views\\Customer\\BrowseCars.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-22T20:33:59.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Views\\TestDrive\\Create.cshtml",
+              "RelativeDocumentMoniker": "CarSalesAndInventoryManagementSystem\\Views\\TestDrive\\Create.cshtml",
+              "ToolTip": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Views\\TestDrive\\Create.cshtml",
+              "RelativeToolTip": "CarSalesAndInventoryManagementSystem\\Views\\TestDrive\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T08:39:54.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "MyTestDrives.cshtml",
+              "DocumentMoniker": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Views\\TestDrive\\MyTestDrives.cshtml",
+              "RelativeDocumentMoniker": "CarSalesAndInventoryManagementSystem\\Views\\TestDrive\\MyTestDrives.cshtml",
+              "ToolTip": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Views\\TestDrive\\MyTestDrives.cshtml",
+              "RelativeToolTip": "CarSalesAndInventoryManagementSystem\\Views\\TestDrive\\MyTestDrives.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T08:40:53.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "CarSalesAndInventoryManagementSystem\\Models\\Payment.cs",
+              "ToolTip": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Models\\Payment.cs",
+              "RelativeToolTip": "CarSalesAndInventoryManagementSystem\\Models\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T15:13:57.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "PartInventory.cshtml",
+              "DocumentMoniker": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Views\\Admin\\PartInventory.cshtml",
+              "RelativeDocumentMoniker": "CarSalesAndInventoryManagementSystem\\Views\\Admin\\PartInventory.cshtml",
+              "ToolTip": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Views\\Admin\\PartInventory.cshtml",
+              "RelativeToolTip": "CarSalesAndInventoryManagementSystem\\Views\\Admin\\PartInventory.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-14T16:27:55.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "DeleteCar.cshtml",
+              "DocumentMoniker": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Views\\Admin\\DeleteCar.cshtml",
+              "RelativeDocumentMoniker": "CarSalesAndInventoryManagementSystem\\Views\\Admin\\DeleteCar.cshtml",
+              "ToolTip": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Views\\Admin\\DeleteCar.cshtml",
+              "RelativeToolTip": "CarSalesAndInventoryManagementSystem\\Views\\Admin\\DeleteCar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-14T16:25:13.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "dbo.Parts.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/._SQLEXPRESS/CARSALESANDINVENTORYSYSTEM_2d33732dc79a40f4801cc3afcfe5fdfb/True/SqlTable/dbo.Parts.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/._SQLEXPRESS/CARSALESANDINVENTORYSYSTEM_2d33732dc79a40f4801cc3afcfe5fdfb/True/SqlTable/dbo.Parts.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-06-23T07:49:20.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "dbo.TestDrives.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/._SQLEXPRESS/CARSALESANDINVENTORYSYSTEM_2d33732dc79a40f4801cc3afcfe5fdfb/True/SqlTable/dbo.TestDrives.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/._SQLEXPRESS/CARSALESANDINVENTORYSYSTEM_2d33732dc79a40f4801cc3afcfe5fdfb/True/SqlTable/dbo.TestDrives.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-06-23T07:50:22.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Views\\Cart\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "CarSalesAndInventoryManagementSystem\\Views\\Cart\\Checkout.cshtml",
+              "ToolTip": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Views\\Cart\\Checkout.cshtml",
+              "RelativeToolTip": "CarSalesAndInventoryManagementSystem\\Views\\Cart\\Checkout.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T06:01:59.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "dbo.Orders.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/._SQLEXPRESS/CARSALESANDINVENTORYSYSTEM_2d33732dc79a40f4801cc3afcfe5fdfb/True/SqlTable/dbo.Orders.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/._SQLEXPRESS/CARSALESANDINVENTORYSYSTEM_2d33732dc79a40f4801cc3afcfe5fdfb/True/SqlTable/dbo.Orders.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-06-23T06:30:09.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "OrderConformation.cshtml",
+              "DocumentMoniker": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Views\\Cart\\OrderConformation.cshtml",
+              "RelativeDocumentMoniker": "CarSalesAndInventoryManagementSystem\\Views\\Cart\\OrderConformation.cshtml",
+              "ToolTip": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Views\\Cart\\OrderConformation.cshtml",
+              "RelativeToolTip": "CarSalesAndInventoryManagementSystem\\Views\\Cart\\OrderConformation.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T07:01:18.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "CarSalesAndInventoryManagementSystem\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "CarSalesAndInventoryManagementSystem\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-22T20:23:47.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "202506230539366_FixOrderItemStructure.cs",
+              "DocumentMoniker": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Migrations\\202506230539366_FixOrderItemStructure.cs",
+              "RelativeDocumentMoniker": "CarSalesAndInventoryManagementSystem\\Migrations\\202506230539366_FixOrderItemStructure.cs",
+              "ToolTip": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Migrations\\202506230539366_FixOrderItemStructure.cs",
+              "RelativeToolTip": "CarSalesAndInventoryManagementSystem\\Migrations\\202506230539366_FixOrderItemStructure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T05:39:40.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Models\\User.cs",
+              "RelativeDocumentMoniker": "CarSalesAndInventoryManagementSystem\\Models\\User.cs",
+              "ToolTip": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Models\\User.cs",
+              "RelativeToolTip": "CarSalesAndInventoryManagementSystem\\Models\\User.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T15:09:06.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "dbo.OrderItems.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/._SQLEXPRESS/CARSALESANDINVENTORYSYSTEM_2d33732dc79a40f4801cc3afcfe5fdfb/True/SqlTable/dbo.OrderItems.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/._SQLEXPRESS/CARSALESANDINVENTORYSYSTEM_2d33732dc79a40f4801cc3afcfe5fdfb/True/SqlTable/dbo.OrderItems.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-06-23T06:30:16.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "dbo.Payments.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/._SQLEXPRESS/CARSALESANDINVENTORYSYSTEM_2d33732dc79a40f4801cc3afcfe5fdfb/True/SqlTable/dbo.Payments.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/._SQLEXPRESS/CARSALESANDINVENTORYSYSTEM_2d33732dc79a40f4801cc3afcfe5fdfb/True/SqlTable/dbo.Payments.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-06-23T06:30:27.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "CarInventory.cshtml",
+              "DocumentMoniker": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Views\\Admin\\CarInventory.cshtml",
+              "RelativeDocumentMoniker": "CarSalesAndInventoryManagementSystem\\Views\\Admin\\CarInventory.cshtml",
+              "ToolTip": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Views\\Admin\\CarInventory.cshtml",
+              "RelativeToolTip": "CarSalesAndInventoryManagementSystem\\Views\\Admin\\CarInventory.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-14T16:22:45.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "AddAdmin.cshtml",
+              "DocumentMoniker": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Views\\Admin\\AddAdmin.cshtml",
+              "RelativeDocumentMoniker": "CarSalesAndInventoryManagementSystem\\Views\\Admin\\AddAdmin.cshtml",
+              "ToolTip": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Views\\Admin\\AddAdmin.cshtml",
+              "RelativeToolTip": "CarSalesAndInventoryManagementSystem\\Views\\Admin\\AddAdmin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-14T16:21:26.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "202506222020517_UpdateModel.cs",
+              "DocumentMoniker": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Migrations\\202506222020517_UpdateModel.cs",
+              "RelativeDocumentMoniker": "CarSalesAndInventoryManagementSystem\\Migrations\\202506222020517_UpdateModel.cs",
+              "ToolTip": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Migrations\\202506222020517_UpdateModel.cs",
+              "RelativeToolTip": "CarSalesAndInventoryManagementSystem\\Migrations\\202506222020517_UpdateModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T20:20:56.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "dbo.Users.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDb__MSSQLLocalDB/CARSALESANDINVENTORYSYSTEM_2d33732dc79a40f4801cc3afcfe5fdfb/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDb__MSSQLLocalDB/CARSALESANDINVENTORYSYSTEM_2d33732dc79a40f4801cc3afcfe5fdfb/True/SqlTable/dbo.Users.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-06-22T14:48:26.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Web.config",
+              "DocumentMoniker": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Web.config",
+              "RelativeDocumentMoniker": "CarSalesAndInventoryManagementSystem\\Web.config",
+              "ToolTip": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Web.config",
+              "RelativeToolTip": "CarSalesAndInventoryManagementSystem\\Web.config",
+              "ViewState": "AgIAADkAAAAAAAAAAAAswEQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-19T14:05:10.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "202506221431531_ModifyMyTable2.cs",
+              "DocumentMoniker": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Migrations\\202506221431531_ModifyMyTable2.cs",
+              "RelativeDocumentMoniker": "CarSalesAndInventoryManagementSystem\\Migrations\\202506221431531_ModifyMyTable2.cs",
+              "ToolTip": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Migrations\\202506221431531_ModifyMyTable2.cs",
+              "RelativeToolTip": "CarSalesAndInventoryManagementSystem\\Migrations\\202506221431531_ModifyMyTable2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T14:32:00.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Car.cs",
+              "DocumentMoniker": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "CarSalesAndInventoryManagementSystem\\Models\\Car.cs",
+              "ToolTip": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Models\\Car.cs",
+              "RelativeToolTip": "CarSalesAndInventoryManagementSystem\\Models\\Car.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T15:10:47.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "dbo.Users.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/._SQLEXPRESS/CARSALESANDINVENTORYSYSTEM_2d33732dc79a40f4801cc3afcfe5fdfb/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/._SQLEXPRESS/CARSALESANDINVENTORYSYSTEM_2d33732dc79a40f4801cc3afcfe5fdfb/True/SqlTable/dbo.Users.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-06-22T18:32:01.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "202506221445090_ModifyMyTable3.cs",
+              "DocumentMoniker": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Migrations\\202506221445090_ModifyMyTable3.cs",
+              "RelativeDocumentMoniker": "CarSalesAndInventoryManagementSystem\\Migrations\\202506221445090_ModifyMyTable3.cs",
+              "ToolTip": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Migrations\\202506221445090_ModifyMyTable3.cs",
+              "RelativeToolTip": "CarSalesAndInventoryManagementSystem\\Migrations\\202506221445090_ModifyMyTable3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T14:45:14.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Web.Debug.config",
+              "DocumentMoniker": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Web.Debug.config",
+              "RelativeDocumentMoniker": "CarSalesAndInventoryManagementSystem\\Web.Debug.config",
+              "ToolTip": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Web.Debug.config",
+              "RelativeToolTip": "CarSalesAndInventoryManagementSystem\\Web.Debug.config",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-22T17:59:11.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "EditPart.cshtml",
+              "DocumentMoniker": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Views\\Admin\\EditPart.cshtml",
+              "RelativeDocumentMoniker": "CarSalesAndInventoryManagementSystem\\Views\\Admin\\EditPart.cshtml",
+              "ToolTip": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Views\\Admin\\EditPart.cshtml",
+              "RelativeToolTip": "CarSalesAndInventoryManagementSystem\\Views\\Admin\\EditPart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-14T16:29:26.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "EditCar.cshtml",
+              "DocumentMoniker": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Views\\Admin\\EditCar.cshtml",
+              "RelativeDocumentMoniker": "CarSalesAndInventoryManagementSystem\\Views\\Admin\\EditCar.cshtml",
+              "ToolTip": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Views\\Admin\\EditCar.cshtml",
+              "RelativeToolTip": "CarSalesAndInventoryManagementSystem\\Views\\Admin\\EditCar.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-14T16:24:35.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "AddPart.cshtml",
+              "DocumentMoniker": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Views\\Admin\\AddPart.cshtml",
+              "RelativeDocumentMoniker": "CarSalesAndInventoryManagementSystem\\Views\\Admin\\AddPart.cshtml",
+              "ToolTip": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Views\\Admin\\AddPart.cshtml",
+              "RelativeToolTip": "CarSalesAndInventoryManagementSystem\\Views\\Admin\\AddPart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-14T16:28:47.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "AddCar.cshtml",
+              "DocumentMoniker": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Views\\Admin\\AddCar.cshtml",
+              "RelativeDocumentMoniker": "CarSalesAndInventoryManagementSystem\\Views\\Admin\\AddCar.cshtml",
+              "ToolTip": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Views\\Admin\\AddCar.cshtml",
+              "RelativeToolTip": "CarSalesAndInventoryManagementSystem\\Views\\Admin\\AddCar.cshtml",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-14T16:23:53.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "202506141700253_ModifyMyTable1.cs",
+              "DocumentMoniker": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Migrations\\202506141700253_ModifyMyTable1.cs",
+              "RelativeDocumentMoniker": "CarSalesAndInventoryManagementSystem\\Migrations\\202506141700253_ModifyMyTable1.cs",
+              "ToolTip": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Migrations\\202506141700253_ModifyMyTable1.cs",
+              "RelativeToolTip": "CarSalesAndInventoryManagementSystem\\Migrations\\202506141700253_ModifyMyTable1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T17:00:39.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "dbo.Users.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDb__MSSQLLocalDB/CarSalesAndInventoryManagementSystem.Context.CarSales_Inventory/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDb__MSSQLLocalDB/CarSalesAndInventoryManagementSystem.Context.CarSales_Inventory/True/SqlTable/dbo.Users.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-06-14T15:27:43.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "202506141618147_ModifyMyTable.cs",
+              "DocumentMoniker": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Migrations\\202506141618147_ModifyMyTable.cs",
+              "RelativeDocumentMoniker": "CarSalesAndInventoryManagementSystem\\Migrations\\202506141618147_ModifyMyTable.cs",
+              "ToolTip": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Migrations\\202506141618147_ModifyMyTable.cs",
+              "RelativeToolTip": "CarSalesAndInventoryManagementSystem\\Migrations\\202506141618147_ModifyMyTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T16:18:22.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "202506141525585_InitialCreate.cs",
+              "DocumentMoniker": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Migrations\\202506141525585_InitialCreate.cs",
+              "RelativeDocumentMoniker": "CarSalesAndInventoryManagementSystem\\Migrations\\202506141525585_InitialCreate.cs",
+              "ToolTip": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Migrations\\202506141525585_InitialCreate.cs",
+              "RelativeToolTip": "CarSalesAndInventoryManagementSystem\\Migrations\\202506141525585_InitialCreate.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T15:26:13.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "CarSalesAndInventoryManagementSystem\\Migrations\\Configuration.cs",
+              "ToolTip": "E:\\.net er project\\CarSalesAndInventoryManagementSystem\\CarSalesAndInventoryManagementSystem\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "CarSalesAndInventoryManagementSystem\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T15:25:30.371Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

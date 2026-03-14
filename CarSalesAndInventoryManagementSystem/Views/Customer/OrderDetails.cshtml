@@ -1,0 +1,92 @@
+﻿
+@model CarSalesAndInventoryManagementSystem.Models.Order
+
+@{
+    ViewBag.Title = "Order Details";
+}
+
+<div class="container" style="margin-top: 30px;">
+    <h2>Order Details - #@Model.OrderID</h2>
+    <hr />
+
+    <div class="row">
+        <div class="col-md-6">
+            <div class="panel panel-info">
+                <div class="panel-heading"><h3 class="panel-title">Customer Information</h3></div>
+                <div class="panel-body">
+                    <dl class="dl-horizontal">
+                        <dt>Customer Name</dt>
+                        <dd>@Html.DisplayFor(model => model.User.Name)</dd>
+
+                        <dt>User ID</dt>
+                        <dd>@Html.DisplayFor(model => model.UserID)</dd>
+                    </dl>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="panel panel-primary">
+                <div class="panel-heading"><h3 class="panel-title">Order Summary</h3></div>
+                <div class="panel-body">
+                    <dl class="dl-horizontal">
+                        <dt>Order Date</dt>
+                        <dd>@Model.OrderDate.ToString("dd MMM yyyy, hh:mm tt")</dd>
+
+                        <dt>Order Status</dt>
+                        <dd><strong>@Html.DisplayFor(model => model.Status)</strong></dd>
+
+                        <dt>Total Amount</dt>
+                        <dd><strong>@String.Format("{0:C}", Model.TotalAmount)</strong></dd>
+                    </dl>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <h3>Items in this Order</h3>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Item Description</th>
+                <th>Type</th>
+                <th>Quantity</th>
+                <th>Unit Price</th>
+                <th>Subtotal</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.OrderItems)
+            {
+                <tr>
+                    <td>
+                        @if (item.Car != null)
+                        {
+                            <strong>@item.Car.Brand @item.Car.Model</strong>
+                        }
+                        else if (item.Part != null)
+                        {
+                            <strong>@item.Part.PartName</strong>
+                        }
+                    </td>
+                    <td>
+                        @if (item.Car != null)
+                        {
+                            <span class="label label-info">Car</span>
+                        }
+                        else if (item.Part != null)
+                        {
+                            <span class="label label-warning">Part</span>
+                        }
+                    </td>
+                    <td>@item.Quantity</td>
+                    <td>@String.Format("{0:C}", item.UnitPrice)</td>
+                    <td>@String.Format("{0:C}", (item.Quantity * item.UnitPrice))</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <div class="form-actions no-color">
+        @Html.ActionLink("<< Back to All Orders", "MyOrders", "Customer", null, new { @class = "btn btn-default" })
+    </div>
+</div>

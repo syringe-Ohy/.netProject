@@ -1,0 +1,44 @@
+﻿@model CarSalesAndInventoryManagementSystem.Models.Part
+
+@{
+    ViewBag.Title = Model.PartName;
+}
+
+<div class="container" style="max-width: 800px; margin-top: 30px;">
+    <h2>@Model.PartName</h2>
+    <p class="lead">Type: @Model.Type</p>
+    <hr />
+
+    <div class="row">
+        <div class="col-md-8">
+            <dl class="dl-horizontal" style="font-size: 1.2em;">
+                <dt>Part Name</dt>
+                <dd>@Model.PartName</dd>
+
+                <dt>Type</dt>
+                <dd>@Model.Type</dd>
+
+                <dt>Origin</dt>
+                <dd>@Model.Origin</dd>
+
+                <dt>Stock</dt>
+                <dd>@Model.Stock units available</dd>
+            </dl>
+        </div>
+        <div class="col-md-4 text-center">
+            <div style="font-size: 2.5em; font-weight: bold; color: #28a745; margin-bottom: 20px;">
+                @String.Format("{0:C}", Model.Price)
+            </div>
+
+            @using (Html.BeginForm("AddToCart", "Cart", FormMethod.Post))
+            {
+                @Html.Hidden("id", Model.PartID)
+                @Html.Hidden("productType", "Part")
+                <button type="submit" class="btn btn-success btn-lg btn-block">Add to Cart</button>
+            }
+        </div>
+    </div>
+
+    <hr />
+    @Html.ActionLink("<< Back to All Parts", "BrowseParts", "Customer", null, new { @class = "btn btn-default" })
+</div>

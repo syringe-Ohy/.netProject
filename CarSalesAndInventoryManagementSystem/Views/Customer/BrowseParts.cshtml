@@ -1,0 +1,41 @@
+﻿@model IEnumerable<CarSalesAndInventoryManagementSystem.Models.Part>
+
+@{
+    ViewBag.Title = "Browse Parts";
+}
+
+<div class="container">
+    <div class="page-header">
+        <h1>Browse Genuine Parts & Accessories</h1>
+        <p class="lead">Find everything you need to keep your car running perfectly.</p>
+    </div>
+
+    <table class="table table-hover">
+        <thead>
+            <tr style="background-color: #f2f2f2;">
+                <th>Part Name</th>
+                <th>Type</th>
+                <th>Origin</th>
+                <th>Price</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td><strong>@Html.DisplayFor(modelItem => item.PartName)</strong></td>
+                    <td>@Html.DisplayFor(modelItem => item.Type)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Origin)</td>
+                    <td>@String.Format("{0:C}", item.Price)</td>
+                    <td class="text-right">
+                        @Html.ActionLink("View Details", "PartDetails", "Customer", new { id = item.PartID }, new { @class = "btn btn-sm btn-info" })
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <div class="form-actions no-color" style="margin-top: 20px;">
+        @Html.ActionLink("<< Back to Dashboard", "Dashboard", "Customer", null, new { @class = "btn btn-default" })
+    </div>
+</div>

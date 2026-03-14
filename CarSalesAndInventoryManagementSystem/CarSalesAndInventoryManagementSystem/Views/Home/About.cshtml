@@ -1,0 +1,58 @@
+﻿@{
+    ViewBag.Title = "About";
+    ViewBag.Message = "Learn more about our Car Sales & Inventory System project";
+}
+
+<style>
+    main {
+        max-width: 800px;
+        margin: 3rem auto;
+        padding: 2rem;
+        background: #f8f9fa;
+        border-radius: 10px;
+        box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color: #333;
+    }
+
+    h2#title {
+        text-align: center;
+        font-size: 2.5rem;
+        margin-bottom: 0.3rem;
+        color: #007bff;
+    }
+
+    h3 {
+        text-align: center;
+        font-weight: 500;
+        font-size: 1.4rem;
+        margin-bottom: 2rem;
+        color: #555;
+    }
+
+    p {
+        font-size: 1.15rem;
+        line-height: 1.7;
+        margin-bottom: 1.25rem;
+        text-align: justify;
+    }
+</style>
+
+<main aria-labelledby="title">
+    <h2 id="title">@ViewBag.Title</h2>
+    <h3>@ViewBag.Message</h3>
+
+    <p>
+        The Car Sales & Inventory System is a comprehensive web application designed to streamline the management of automotive sales and parts inventory.
+        This platform allows users to browse a wide variety of vehicles and spare parts, manage orders efficiently, and ensure seamless connections between customers and sellers.
+    </p>
+
+    <p>
+        The system offers an intuitive user interface, secure login and registration features, and real-time inventory updates.
+        Whether you're a customer looking for your next car or a dealer managing stock, this system provides all the necessary tools in one place.
+    </p>
+
+    <p>
+        Our goal is to enhance the car sales experience by integrating inventory management with order tracking and customer support, making vehicle purchasing and parts shopping easier than ever.
+    </p>
+</main>

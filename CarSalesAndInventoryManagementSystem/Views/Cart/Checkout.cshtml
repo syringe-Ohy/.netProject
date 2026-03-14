@@ -1,0 +1,52 @@
+﻿@model List<CarSalesAndInventoryManagementSystem.ViewModels.CartItem>
+
+@{
+    ViewBag.Title = "Checkout";
+}
+
+<h2>Checkout</h2>
+
+@if (TempData["ErrorMessage"] != null)
+{
+    <div class="alert alert-danger">@TempData["ErrorMessage"]</div>
+}
+
+@if (!Model.Any())
+{
+    <p>Your cart is empty.</p>
+}
+else
+{
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Product</th>
+                <th>Type</th>
+                <th>Price</th>
+                <th>Quantity</th>
+                <th>Total</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.ProductName</td>
+                    <td>@item.ProductType</td>
+                    <td>@item.Price.ToString("C")</td>
+                    <td>@item.Quantity</td>
+                    <td>@(item.Price * item.Quantity)</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <h4>Total: @Model.Sum(i => i.Price * i.Quantity)</h4>
+
+    using (Html.BeginForm("PlaceOrder", "Cart", FormMethod.Post))
+    {
+        @Html.AntiForgeryToken()
+        <input type="submit" value="Place Order" class="btn btn-primary" />
+        <a href="@Url.Action("Index", "Cart")" class="btn btn-secondary">Back to Cart</a>
+    }
+}

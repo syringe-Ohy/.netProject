@@ -1,0 +1,58 @@
+﻿@model IEnumerable<CarSalesAndInventoryManagementSystem.Models.CarRequest>
+
+@{
+    ViewBag.Title = "Manage Car Requests";
+}
+
+<div class="container">
+    <h2>Manage Customer Car Requests</h2>
+    <hr />
+
+    <p>This page lists all special car requests submitted by customers.</p>
+
+    <table class="table table-bordered table-striped">
+        <tr class="info">
+            <th>Customer</th>
+            <th>Requested Car</th>
+            <th>Engine Type</th>
+            <th>Date Requested</th>
+            <th>Notes</th>
+            <th>Status</th>
+            <th>Actions</th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.User.Name</td>
+                <td><strong>@item.Brand @item.Model</strong></td>
+                <td>@item.EngineType</td>
+                <td>@item.RequestDate.ToString("dd MMM")</td>
+                <td>@item.Notes</td>
+                <td>
+                    @if (item.Status == "New")
+                    {
+                        <span class="label label-warning">@item.Status</span>
+                    }
+                    else
+                    {
+                        <span class="label label-success">@item.Status</span>
+                    }
+                </td>
+                <td>
+                    @using (Html.BeginForm("UpdateRequestStatus", "Admin", FormMethod.Post, new { @class = "form-inline" }))
+                    {
+                        @Html.AntiForgeryToken()
+                        @Html.Hidden("carRequestId", item.CarRequestID)
+                        @Html.DropDownList("status", new SelectList(new[] { "New", "Contacted", "Sourced", "Resolved", "Cancelled" }, item.Status), new { @class = "form-control input-sm" })
+                        <button type="submit" class="btn btn-xs btn-primary">Update</button>
+                    }
+                </td>
+            </tr>
+        }
+    </table>
+    <div class="form-actions no-color" style="margin-top: 20px;">
+        @Html.ActionLink("<< Back to Admin Dashboard", "Dashboard", "Admin", null, new { @class = "btn btn-default" })
+    </div>
+</div>
+

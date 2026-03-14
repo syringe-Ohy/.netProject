@@ -1,0 +1,54 @@
+﻿@model IEnumerable<CarSalesAndInventoryManagementSystem.Models.Part>
+
+@{
+    ViewBag.Title = "Manage Part Inventory";
+}
+
+<div class="container">
+    <h2>Manage Part Inventory & Stock</h2>
+    <hr />
+
+    <p>
+        @Html.ActionLink("Add New Part", "AddPart", null, new { @class = "btn btn-primary" })
+    </p>
+
+    <table class="table table-striped table-bordered">
+        <tr class="info">
+            <th>Part Name</th>
+            <th>Type</th>
+            <th>Origin</th>
+            <th>Price</th>
+            <th>Stock Level</th>
+            <th>Actions</th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.PartName)</td>
+                <td>@Html.DisplayFor(modelItem => item.Type)</td>
+                <td>@Html.DisplayFor(modelItem => item.Origin)</td>
+                <td>@String.Format("{0:C}", item.Price)</td>
+                <td>
+                    @if (item.Stock < 10)
+                    {
+                        <span class="label label-danger">Low Stock (@item.Stock)</span>
+                    }
+                    else
+                    {
+                        <span class="label label-success">@item.Stock</span>
+                    }
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "EditPart", new { id = item.PartID }, new { @class = "btn btn-xs btn-warning" }) |
+                    @Html.ActionLink("Delete", "DeletePart", new { id = item.PartID }, new { @class = "btn btn-xs btn-danger" })
+                </td>
+            </tr>
+        }
+
+    </table>
+    @* Back BUTTON *@
+    <div class="form-actions no-color" style="margin-top: 20px;">
+        @Html.ActionLink("<< Back to Admin Dashboard", "Dashboard", "Admin", null, new { @class = "btn btn-default" })
+    </div>
+</div>

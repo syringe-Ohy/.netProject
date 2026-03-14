@@ -1,0 +1,84 @@
+﻿@{
+    ViewBag.Title = "Welcome to Car Sales & Inventory System";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    .jumbotron {
+        background: url('https://images.unsplash.com/photo-1502877338535-766e1452684a?auto=format&fit=crop&w=1470&q=80') no-repeat center center;
+        background-size: cover;
+        color: white;
+        text-shadow: 1px 1px 5px rgba(0,0,0,0.7);
+        padding: 4rem 2rem;
+        border-radius: 12px;
+    }
+
+    .feature-icon {
+        width: 120px;
+        height: 120px;
+        object-fit: contain;
+        margin-bottom: 20px;
+        border-radius: 12px;
+        box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+        transition: transform 0.3s ease;
+        cursor: pointer;
+    }
+
+        .feature-icon:hover {
+            transform: scale(1.1);
+            box-shadow: 0 6px 15px rgba(0,0,0,0.3);
+        }
+
+    .feature-text h3 {
+        font-weight: 700;
+        margin-bottom: 12px;
+        color: #333;
+    }
+
+    .feature-text p {
+        color: #555;
+        font-size: 1.1rem;
+    }
+</style>
+
+<div class="jumbotron text-center">
+    <h1 class="display-4">Welcome to Car Sales & Inventory</h1>
+    <p class="lead">Manage your inventory, browse vehicles, and track your orders seamlessly.</p>
+    <hr class="my-4" style="border-color: rgba(255,255,255,0.5);">
+    <p>Get started now:</p>
+
+    <p>
+        <a class="btn btn-success btn-lg m-2" href="@Url.Action("Login", "User")" role="button">Login</a>
+        <a class="btn btn-outline-light btn-lg m-2" href="@Url.Action("SignUp", "User")" role="button">Register</a>
+    </p>
+</div>
+
+<div class="container mt-5">
+    <div class="row text-center">
+        <div class="col-md-4">
+            <a href="@Url.Action("BrowseCars", "Customer")">
+                <img class="feature-icon" src="https://cdn-icons-png.flaticon.com/512/743/743922.png" alt="Browse Cars Icon" />
+            </a>
+            <div class="feature-text">
+                <h3>Browse Cars</h3>
+                <p>Explore our wide selection of vehicles in stock.</p>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <a href="@Url.Action("BrowseParts", "Customer")">
+                <img class="feature-icon" src="https://cdn-icons-png.flaticon.com/512/149/149273.png" alt="Browse Parts Icon" />
+            </a>
+            <div class="feature-text">
+                <h3>Browse Parts</h3>
+                <p>Discover the best parts for your vehicle needs.</p>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <img class="feature-icon" src="https://cdn-icons-png.flaticon.com/512/1250/1250683.png" alt="Fast Support Icon" />
+            <div class="feature-text">
+                <h3>24/7 Support</h3>
+                <p>Our team is here to help you anytime.</p>
+            </div>
+        </div>
+    </div>
+</div>

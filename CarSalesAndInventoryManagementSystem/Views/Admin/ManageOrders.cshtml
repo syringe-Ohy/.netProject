@@ -1,0 +1,74 @@
+﻿@model IEnumerable<CarSalesAndInventoryManagementSystem.Models.Order>
+
+@{
+    ViewBag.Title = "Manage Customer Orders";
+}
+
+<div class="container">
+    <h2>Manage Customer Orders</h2>
+    <hr />
+
+    <p>This page lists all orders placed by customers. You can view the details of each order to see the items purchased.</p>
+
+    <table class="table table-hover table-bordered">
+        <tr class="info">
+            <th>Order ID</th>
+            <th>Customer Name</th>
+            <th>Order Date</th>
+            <th>Status</th>
+            <th>Total Amount</th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.OrderID)</td>
+                <td>@Html.DisplayFor(modelItem => item.User.Name)</td>
+                <td>@item.OrderDate.ToString("dd MMM yyyy")</td>
+                <td>
+                    @if (item.Status != null && item.Status.Equals("Paid", StringComparison.OrdinalIgnoreCase))
+                    {
+                        <span class="label label-success">@item.Status</span>
+                    }
+                    else
+                    {
+                        <span class="label label-warning">@item.Status</span>
+                    }
+                </td>
+                <td>@String.Format("{0:C}", item.TotalAmount)</td>
+                <td>
+                    @Html.ActionLink("View Details", "OrderDetails", new { id = item.OrderID }, new { @class = "btn btn-xs btn-primary" })
+                </td>
+                <td>
+                    @if (item.Status == null
+                        || !(item.Status.Equals("confirmed", StringComparison.OrdinalIgnoreCase)
+                            || item.Status.Equals("Cancelled", StringComparison.OrdinalIgnoreCase)))
+                    {
+                        using (Html.BeginForm("UpdateStatus", "Admin", FormMethod.Post))
+                        {
+                            @Html.Hidden("orderId", item.OrderID)
+
+                            @Html.DropDownList("status",
+                                new SelectList(new[] { "confirmed", "Cancelled" }, item.Status),
+                                new { @class = "form-control input-sm", style = "display:inline-block; width:auto;" })
+
+                            <button type="submit" class="btn btn-xs btn-primary" style="margin-left: 5px;">Update</button>
+                        }
+                    }
+                </td>
+
+
+            </tr>
+        }
+
+    </table>
+    @* Back BUTTON *@
+    <div class="form-actions no-color" style="margin-top: 20px;">
+        @Html.ActionLink("<< Back to Admin Dashboard", "Dashboard", "Admin", null, new { @class = "btn btn-default" })
+    </div>
+</div>
+
+
+
+

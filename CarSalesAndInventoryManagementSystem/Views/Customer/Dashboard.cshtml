@@ -1,0 +1,113 @@
+﻿@{
+    ViewBag.Title = "My Dashboard";
+}
+
+<style>
+    .dashboard-header {
+        text-align: center;
+        margin: 20px 0 40px 0;
+    }
+
+    .dashboard-card {
+        background-color: #ffffff;
+        border: 1px solid #e7e7e7;
+        border-radius: 8px;
+        padding: 25px;
+        margin-bottom: 20px;
+        box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+        transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+        display: flex;
+        flex-direction: column;
+        height: 100%;
+    }
+
+        .dashboard-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 15px rgba(0,0,0,0.1);
+        }
+
+        .dashboard-card h3 {
+            color: #333;
+            margin-top: 0;
+        }
+
+        .dashboard-card p {
+            flex-grow: 1; /* Allows the description to take up available space */
+            color: #666;
+        }
+
+        .dashboard-card .btn {
+            width: 100%;
+            padding: 10px;
+            font-size: 1.1em;
+        }
+</style>
+
+<div class="container">
+    <div class="dashboard-header">
+        @if (Session["UserName"] != null)
+        {
+            <h1>Welcome back, @Session["UserName"]!</h1>
+        }
+        else
+        {
+            <h1>Welcome to your Dashboard!</h1>
+        }
+        <p class="lead">From here you can browse our inventory, manage your orders, and book test drives.</p>
+    </div>
+
+    <div class="row">
+        <!-- Browse Cars Card -->
+        <div class="col-md-6 col-lg-3">
+            <div class="dashboard-card">
+                <h3><i class="glyphicon glyphicon-road"></i> Browse Cars</h3>
+                <p>Explore our wide selection of new and certified pre-owned cars.</p>
+                @Html.ActionLink("View Cars", "BrowseCars", "Customer", null, new { @class = "btn btn-primary" })
+            </div>
+        </div>
+
+        <!-- Browse Parts Card -->
+        <div class="col-md-6 col-lg-3">
+            <div class="dashboard-card">
+                <h3><i class="glyphicon glyphicon-cog"></i> Shop for Parts</h3>
+                <p>Find genuine replacement parts and accessories for your vehicle.</p>
+                @Html.ActionLink("View Parts", "BrowseParts", "Customer", null, new { @class = "btn btn-info" })
+            </div>
+        </div>
+
+        <!-- Order History Card -->
+        <div class="col-md-6 col-lg-3">
+            <div class="dashboard-card">
+                <h3><i class="glyphicon glyphicon-list-alt"></i> My Orders</h3>
+                <p>Check the status of your current orders and view your purchase history.</p>@Html.ActionLink("My Orders", "MyOrders", "Customer", null, new { @class = "btn btn-success" })
+
+            </div>
+        </div>
+
+        <!-- Book Test Drive Card -->
+        <div class="col-md-6 col-lg-3">
+            <div class="dashboard-card">
+                <h3><i class="glyphicon glyphicon-calendar"></i> Test Drives</h3>
+                <p>Ready to get behind the wheel? Schedule a test drive appointment today.</p>
+                @Html.ActionLink("Book Now", "Create", "TestDrive", null, new { @class = "btn btn-warning" })
+            </div>
+        </div>
+        <!-- My Car Requests Card -->
+        <div class="col-md-6 col-lg-3">
+            <div class="dashboard-card">
+                <h3><i class="glyphicon glyphicon-edit"></i> My Car Requests</h3>
+                <p>View and manage your special requests for cars not in our inventory.</p>
+                @Html.ActionLink("My Requests", "MyCarRequests", "CarRequest", null, new { @class = "btn btn-secondary" })
+            </div>
+        </div>
+
+        <!-- Request New Car Card -->
+        <div class="col-md-6 col-lg-3">
+            <div class="dashboard-card">
+                <h3><i class="glyphicon glyphicon-search"></i> Request a New Car</h3>
+                <p>Can't find what you want? Let us know and we'll find it for you.</p>
+                @Html.ActionLink("Make a Request", "RequestCar", "Customer", null, new { @class = "btn btn-secondary" })
+            </div>
+        </div>
+    </div>
+</div>
